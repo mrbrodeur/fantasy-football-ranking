@@ -1,0 +1,2654 @@
+,week,position,name,analyst,error
+0,1,K,Evan McPherson,overall_rank_error,23.0
+1,1,K,Harrison Butker,overall_rank_error,14.0
+2,1,K,Justin Tucker,overall_rank_error,15.0
+3,1,K,Ka'imi Fairbairn,overall_rank_error,1.0
+4,1,K,Jake Elliott,overall_rank_error,6.0
+5,1,K,Tyler Bass,overall_rank_error,5.0
+6,1,K,Brandon Aubrey,overall_rank_error,3.0
+7,1,K,Jason Sanders,overall_rank_error,3.0
+8,1,K,Younghoe Koo,overall_rank_error,18.0
+9,1,K,Jake Moody,overall_rank_error,9.0
+10,1,K,Cairo Santos,overall_rank_error,4.0
+11,1,K,Jason Myers,overall_rank_error,1.0
+12,1,K,Jake Bates,overall_rank_error,
+13,1,K,Cameron Dicker,overall_rank_error,
+14,1,K,Blake Grupe,overall_rank_error,
+15,1,K,Dustin Hopkins,overall_rank_error,
+16,1,K,Chase McLaughlin,overall_rank_error,
+17,1,K,Daniel Carlson,overall_rank_error,
+18,1,K,Chris Boswell,overall_rank_error,
+19,1,K,Greg Zuerlein,overall_rank_error,
+20,1,K,Joshua Karty,overall_rank_error,
+21,1,K,Matt Prater,overall_rank_error,
+22,1,K,Graham Gano,overall_rank_error,
+23,1,K,Will Reichard,overall_rank_error,
+24,1,K,Eddy Pineiro,overall_rank_error,
+25,1,K,Cam Little,overall_rank_error,
+26,1,K,Wil Lutz,overall_rank_error,
+27,1,K,Joey Slye,overall_rank_error,
+28,1,K,Brayden Narveson,overall_rank_error,
+29,1,K,Nick Folk,overall_rank_error,
+30,1,K,Spencer Shrader,overall_rank_error,
+31,1,K,Cade York,overall_rank_error,
+32,2,K,Justin Tucker,overall_rank_error,6.0
+33,2,K,Harrison Butker,overall_rank_error,11.0
+34,2,K,Brandon Aubrey,overall_rank_error,1.0
+35,2,K,Ka'imi Fairbairn,overall_rank_error,2.0
+36,2,K,Jake Elliott,overall_rank_error,17.0
+37,2,K,Tyler Bass,overall_rank_error,13.0
+38,2,K,Jake Moody,overall_rank_error,20.0
+39,2,K,Jason Sanders,overall_rank_error,20.0
+40,2,K,Evan McPherson,overall_rank_error,4.0
+41,2,K,Chris Boswell,overall_rank_error,8.0
+42,2,K,Younghoe Koo,overall_rank_error,2.0
+43,2,K,Cameron Dicker,overall_rank_error,1.0
+44,2,K,Cairo Santos,overall_rank_error,
+45,2,K,Jake Bates,overall_rank_error,
+46,2,K,Jason Myers,overall_rank_error,
+47,2,K,Blake Grupe,overall_rank_error,
+48,2,K,Chase McLaughlin,overall_rank_error,
+49,2,K,Joshua Karty,overall_rank_error,
+50,2,K,Greg Zuerlein,overall_rank_error,
+51,2,K,Dustin Hopkins,overall_rank_error,
+52,2,K,Matt Prater,overall_rank_error,
+53,2,K,Daniel Carlson,overall_rank_error,
+54,2,K,Cam Little,overall_rank_error,
+55,2,K,Will Reichard,overall_rank_error,
+56,2,K,Wil Lutz,overall_rank_error,
+57,2,K,Nick Folk,overall_rank_error,
+58,2,K,Eddy Pineiro,overall_rank_error,
+59,2,K,Brayden Narveson,overall_rank_error,
+60,3,K,Harrison Butker,overall_rank_error,1.0
+61,3,K,Jake Moody,overall_rank_error,13.0
+62,3,K,Brandon Aubrey,overall_rank_error,4.0
+63,3,K,Ka'imi Fairbairn,overall_rank_error,25.0
+64,3,K,Justin Tucker,overall_rank_error,15.0
+65,3,K,Evan McPherson,overall_rank_error,2.0
+66,3,K,Jake Elliott,overall_rank_error,22.0
+67,3,K,Blake Grupe,overall_rank_error,7.0
+68,3,K,Daniel Carlson,overall_rank_error,17.0
+69,3,K,Cameron Dicker,overall_rank_error,10.0
+70,3,K,Tyler Bass,overall_rank_error,6.0
+71,3,K,Younghoe Koo,overall_rank_error,2.0
+72,3,K,Chase McLaughlin,overall_rank_error,
+73,3,K,Jake Bates,overall_rank_error,
+74,3,K,Cairo Santos,overall_rank_error,
+75,3,K,Jason Myers,overall_rank_error,
+76,3,K,Dustin Hopkins,overall_rank_error,
+77,3,K,Chris Boswell,overall_rank_error,
+78,3,K,Matt Prater,overall_rank_error,
+79,3,K,Greg Zuerlein,overall_rank_error,
+80,3,K,Jason Sanders,overall_rank_error,
+81,3,K,Will Reichard,overall_rank_error,
+82,3,K,Brayden Narveson,overall_rank_error,
+83,3,K,Cam Little,overall_rank_error,
+84,3,K,Joshua Karty,overall_rank_error,
+85,3,K,Wil Lutz,overall_rank_error,
+86,3,K,Matt Gay,overall_rank_error,
+87,3,K,Austin Seibert,overall_rank_error,
+88,3,K,Eddy Pineiro,overall_rank_error,
+89,3,K,Joey Slye,overall_rank_error,
+90,3,K,Nick Folk,overall_rank_error,
+91,4,K,Brandon Aubrey,overall_rank_error,6.0
+92,4,K,Ka'imi Fairbairn,overall_rank_error,19.0
+93,4,K,Harrison Butker,overall_rank_error,23.0
+94,4,K,Jake Moody,overall_rank_error,1.0
+95,4,K,Evan McPherson,overall_rank_error,0.0
+96,4,K,Matt Prater,overall_rank_error,25.0
+97,4,K,Justin Tucker,overall_rank_error,19.0
+98,4,K,Younghoe Koo,overall_rank_error,6.0
+99,4,K,Blake Grupe,overall_rank_error,8.0
+100,4,K,Chase McLaughlin,overall_rank_error,3.0
+101,4,K,Chris Boswell,overall_rank_error,5.0
+102,4,K,Jason Myers,overall_rank_error,17.0
+103,4,K,Tyler Bass,overall_rank_error,
+104,4,K,Jake Elliott,overall_rank_error,
+105,4,K,Jake Bates,overall_rank_error,
+106,4,K,Dustin Hopkins,overall_rank_error,
+107,4,K,Cairo Santos,overall_rank_error,
+108,4,K,Daniel Carlson,overall_rank_error,
+109,4,K,Will Reichard,overall_rank_error,
+110,4,K,Brayden Narveson,overall_rank_error,
+111,4,K,Cameron Dicker,overall_rank_error,
+112,4,K,Greg Zuerlein,overall_rank_error,
+113,4,K,Wil Lutz,overall_rank_error,
+114,4,K,Austin Seibert,overall_rank_error,
+115,4,K,Jason Sanders,overall_rank_error,
+116,4,K,Cam Little,overall_rank_error,
+117,4,K,Greg Joseph,overall_rank_error,
+118,4,K,Eddy Pineiro,overall_rank_error,
+119,4,K,Joshua Karty,overall_rank_error,
+120,4,K,Nick Folk,overall_rank_error,
+121,4,K,Joey Slye,overall_rank_error,
+122,4,K,Matt Gay,overall_rank_error,
+123,5,K,Brandon Aubrey,overall_rank_error,11.0
+124,5,K,Harrison Butker,overall_rank_error,3.0
+125,5,K,Ka'imi Fairbairn,overall_rank_error,1.0
+126,5,K,Younghoe Koo,overall_rank_error,3.0
+127,5,K,Justin Tucker,overall_rank_error,2.0
+128,5,K,Jake Moody,overall_rank_error,11.0
+129,5,K,Chase McLaughlin,overall_rank_error,5.0
+130,5,K,Evan McPherson,overall_rank_error,16.0
+131,5,K,Tyler Bass,overall_rank_error,8.0
+132,5,K,Jason Myers,overall_rank_error,2.0
+133,5,K,Cairo Santos,overall_rank_error,9.0
+134,5,K,Chris Boswell,overall_rank_error,8.0
+135,5,K,Dustin Hopkins,overall_rank_error,
+136,5,K,Blake Grupe,overall_rank_error,
+137,5,K,Austin Seibert,overall_rank_error,
+138,5,K,Wil Lutz,overall_rank_error,
+139,5,K,Will Reichard,overall_rank_error,
+140,5,K,Matt Gay,overall_rank_error,
+141,5,K,Greg Zuerlein,overall_rank_error,
+142,5,K,Cam Little,overall_rank_error,
+143,5,K,Brayden Narveson,overall_rank_error,
+144,5,K,Daniel Carlson,overall_rank_error,
+145,5,K,Eddy Pineiro,overall_rank_error,
+146,5,K,Joshua Karty,overall_rank_error,
+147,5,K,Joey Slye,overall_rank_error,
+148,5,K,Chad Ryland,overall_rank_error,
+149,5,K,Jason Sanders,overall_rank_error,
+150,5,K,Greg Joseph,overall_rank_error,
+151,6,K,Brandon Aubrey,overall_rank_error,5.0
+152,6,K,Younghoe Koo,overall_rank_error,4.0
+153,6,K,Ka'imi Fairbairn,overall_rank_error,3.0
+154,6,K,Justin Tucker,overall_rank_error,0.0
+155,6,K,Chase McLaughlin,overall_rank_error,9.0
+156,6,K,Evan McPherson,overall_rank_error,15.0
+157,6,K,Chris Boswell,overall_rank_error,5.0
+158,6,K,Austin Seibert,overall_rank_error,5.0
+159,6,K,Jake Elliott,overall_rank_error,3.0
+160,6,K,Jason Myers,overall_rank_error,9.0
+161,6,K,Tyler Bass,overall_rank_error,10.0
+162,6,K,Cameron Dicker,overall_rank_error,6.0
+163,6,K,Greg Joseph,overall_rank_error,
+164,6,K,Cairo Santos,overall_rank_error,
+165,6,K,Jake Bates,overall_rank_error,
+166,6,K,Brayden Narveson,overall_rank_error,
+167,6,K,Blake Grupe,overall_rank_error,
+168,6,K,Matt Gay,overall_rank_error,
+169,6,K,Wil Lutz,overall_rank_error,
+170,6,K,Nick Folk,overall_rank_error,
+171,6,K,Cam Little,overall_rank_error,
+172,6,K,Eddy Pineiro,overall_rank_error,
+173,6,K,Chad Ryland,overall_rank_error,
+174,6,K,Matthew Wright,overall_rank_error,
+175,6,K,Daniel Carlson,overall_rank_error,
+176,6,K,Greg Zuerlein,overall_rank_error,
+177,6,K,Dustin Hopkins,overall_rank_error,
+178,6,K,Joey Slye,overall_rank_error,
+179,7,K,Younghoe Koo,overall_rank_error,25.0
+180,7,K,Justin Tucker,overall_rank_error,5.0
+181,7,K,Ka'imi Fairbairn,overall_rank_error,5.0
+182,7,K,Austin Seibert,overall_rank_error,1.0
+183,7,K,Evan McPherson,overall_rank_error,19.0
+184,7,K,Will Reichard,overall_rank_error,1.0
+185,7,K,Chase McLaughlin,overall_rank_error,9.0
+186,7,K,Harrison Butker,overall_rank_error,11.0
+187,7,K,Jake Elliott,overall_rank_error,10.0
+188,7,K,Cameron Dicker,overall_rank_error,9.0
+189,7,K,Jake Bates,overall_rank_error,1.0
+190,7,K,Jason Myers,overall_rank_error,4.0
+191,7,K,Tyler Bass,overall_rank_error,
+192,7,K,Matt Gay,overall_rank_error,
+193,7,K,Blake Grupe,overall_rank_error,
+194,7,K,Chris Boswell,overall_rank_error,
+195,7,K,Wil Lutz,overall_rank_error,
+196,7,K,Joshua Karty,overall_rank_error,
+197,7,K,Jason Sanders,overall_rank_error,
+198,7,K,Greg Joseph,overall_rank_error,
+199,7,K,Dustin Hopkins,overall_rank_error,
+200,7,K,Cam Little,overall_rank_error,
+201,7,K,Brandon McManus,overall_rank_error,
+202,7,K,Anders Carlson,overall_rank_error,
+203,7,K,Eddy Pineiro,overall_rank_error,
+204,7,K,Greg Zuerlein,overall_rank_error,
+205,7,K,Nick Folk,overall_rank_error,
+206,7,K,Daniel Carlson,overall_rank_error,
+207,7,K,Joey Slye,overall_rank_error,
+208,7,K,Chad Ryland,overall_rank_error,
+209,8,K,Will Reichard,overall_rank_error,16.0
+210,8,K,Justin Tucker,overall_rank_error,18.0
+211,8,K,Ka'imi Fairbairn,overall_rank_error,6.0
+212,8,K,Brandon Aubrey,overall_rank_error,19.0
+213,8,K,Younghoe Koo,overall_rank_error,15.0
+214,8,K,Harrison Butker,overall_rank_error,5.0
+215,8,K,Austin Seibert,overall_rank_error,2.0
+216,8,K,Evan McPherson,overall_rank_error,16.0
+217,8,K,Chase McLaughlin,overall_rank_error,8.0
+218,8,K,Wil Lutz,overall_rank_error,16.0
+219,8,K,Cameron Dicker,overall_rank_error,4.0
+220,8,K,Jake Bates,overall_rank_error,6.0
+221,8,K,Chris Boswell,overall_rank_error,
+222,8,K,Brandon McManus,overall_rank_error,
+223,8,K,Jason Myers,overall_rank_error,
+224,8,K,Jake Elliott,overall_rank_error,
+225,8,K,Tyler Bass,overall_rank_error,
+226,8,K,Cairo Santos,overall_rank_error,
+227,8,K,Joshua Karty,overall_rank_error,
+228,8,K,Matt Gay,overall_rank_error,
+229,8,K,Jason Sanders,overall_rank_error,
+230,8,K,Anders Carlson,overall_rank_error,
+231,8,K,Chad Ryland,overall_rank_error,
+232,8,K,Cam Little,overall_rank_error,
+233,8,K,Daniel Carlson,overall_rank_error,
+234,8,K,Blake Grupe,overall_rank_error,
+235,8,K,Dustin Hopkins,overall_rank_error,
+236,8,K,Joey Slye,overall_rank_error,
+237,8,K,Greg Zuerlein,overall_rank_error,
+238,8,K,Nick Folk,overall_rank_error,
+239,8,K,Eddy Pineiro,overall_rank_error,
+240,8,K,Greg Joseph,overall_rank_error,
+241,9,K,Brandon Aubrey,overall_rank_error,7.0
+242,9,K,Will Reichard,overall_rank_error,23.0
+243,9,K,Younghoe Koo,overall_rank_error,22.0
+244,9,K,Austin Seibert,overall_rank_error,4.0
+245,9,K,Justin Tucker,overall_rank_error,0.0
+246,9,K,Harrison Butker,overall_rank_error,8.0
+247,9,K,Ka'imi Fairbairn,overall_rank_error,1.0
+248,9,K,Cameron Dicker,overall_rank_error,17.0
+249,9,K,Evan McPherson,overall_rank_error,6.0
+250,9,K,Brandon McManus,overall_rank_error,8.0
+251,9,K,Jake Elliott,overall_rank_error,10.0
+252,9,K,Tyler Bass,overall_rank_error,11.0
+253,9,K,Jake Bates,overall_rank_error,
+254,9,K,Chase McLaughlin,overall_rank_error,
+255,9,K,Jason Myers,overall_rank_error,
+256,9,K,Blake Grupe,overall_rank_error,
+257,9,K,Wil Lutz,overall_rank_error,
+258,9,K,Cairo Santos,overall_rank_error,
+259,9,K,Chad Ryland,overall_rank_error,
+260,9,K,Jason Sanders,overall_rank_error,
+261,9,K,Matt Gay,overall_rank_error,
+262,9,K,Joshua Karty,overall_rank_error,
+263,9,K,Dustin Hopkins,overall_rank_error,
+264,9,K,Cam Little,overall_rank_error,
+265,9,K,Daniel Carlson,overall_rank_error,
+266,9,K,Joey Slye,overall_rank_error,
+267,9,K,Riley Patterson,overall_rank_error,
+268,9,K,Eddy Pineiro,overall_rank_error,
+269,9,K,Nick Folk,overall_rank_error,
+270,9,K,Jude McAtamney,overall_rank_error,
+271,10,K,Younghoe Koo,overall_rank_error,20.0
+272,10,K,Justin Tucker,overall_rank_error,23.0
+273,10,K,Cameron Dicker,overall_rank_error,10.0
+274,10,K,Tyler Bass,overall_rank_error,1.0
+275,10,K,Chris Boswell,overall_rank_error,18.0
+276,10,K,Harrison Butker,overall_rank_error,4.0
+277,10,K,Ka'imi Fairbairn,overall_rank_error,4.0
+278,10,K,Brandon Aubrey,overall_rank_error,9.0
+279,10,K,Jake Elliott,overall_rank_error,1.0
+280,10,K,Jake Bates,overall_rank_error,3.0
+281,10,K,Jason Sanders,overall_rank_error,9.0
+282,10,K,Evan McPherson,overall_rank_error,11.0
+283,10,K,Jake Moody,overall_rank_error,
+284,10,K,Joshua Karty,overall_rank_error,
+285,10,K,Matt Gay,overall_rank_error,
+286,10,K,Blake Grupe,overall_rank_error,
+287,10,K,Chad Ryland,overall_rank_error,
+288,10,K,Chase McLaughlin,overall_rank_error,
+289,10,K,Wil Lutz,overall_rank_error,
+290,10,K,Zane Gonzalez,overall_rank_error,
+291,10,K,Cairo Santos,overall_rank_error,
+292,10,K,Cam Little,overall_rank_error,
+293,10,K,Joey Slye,overall_rank_error,
+294,10,K,Nick Folk,overall_rank_error,
+295,10,K,Spencer Shrader,overall_rank_error,
+296,10,K,Eddy Pineiro,overall_rank_error,
+297,11,K,Ka'imi Fairbairn,overall_rank_error,8.0
+298,11,K,Jake Bates,overall_rank_error,1.0
+299,11,K,Cameron Dicker,overall_rank_error,0.0
+300,11,K,Chris Boswell,overall_rank_error,3.0
+301,11,K,Justin Tucker,overall_rank_error,13.0
+302,11,K,Jake Moody,overall_rank_error,16.0
+303,11,K,Tyler Bass,overall_rank_error,11.0
+304,11,K,Younghoe Koo,overall_rank_error,2.0
+305,11,K,Jason Sanders,overall_rank_error,3.0
+306,11,K,Jake Elliott,overall_rank_error,4.0
+307,11,K,Brandon McManus,overall_rank_error,16.0
+308,11,K,Wil Lutz,overall_rank_error,2.0
+309,11,K,Joshua Karty,overall_rank_error,
+310,11,K,Brandon Aubrey,overall_rank_error,
+311,11,K,Evan McPherson,overall_rank_error,
+312,11,K,Zane Gonzalez,overall_rank_error,
+313,11,K,Blake Grupe,overall_rank_error,
+314,11,K,Dustin Hopkins,overall_rank_error,
+315,11,K,Matt Gay,overall_rank_error,
+316,11,K,Jason Myers,overall_rank_error,
+317,11,K,Spencer Shrader,overall_rank_error,
+318,11,K,Cairo Santos,overall_rank_error,
+319,11,K,Daniel Carlson,overall_rank_error,
+320,11,K,Joey Slye,overall_rank_error,
+321,11,K,Cam Little,overall_rank_error,
+322,11,K,Anders Carlson,overall_rank_error,
+323,11,K,Nick Folk,overall_rank_error,
+324,12,K,Jake Bates,overall_rank_error,14.0
+325,12,K,Ka'imi Fairbairn,overall_rank_error,9.0
+326,12,K,Cameron Dicker,overall_rank_error,0.0
+327,12,K,Jason Sanders,overall_rank_error,5.0
+328,12,K,Wil Lutz,overall_rank_error,4.0
+329,12,K,Justin Tucker,overall_rank_error,11.0
+330,12,K,Chris Boswell,overall_rank_error,8.0
+331,12,K,Chase McLaughlin,overall_rank_error,10.0
+332,12,K,Jake Moody,overall_rank_error,13.0
+333,12,K,Brandon Aubrey,overall_rank_error,1.0
+334,12,K,Spencer Shrader,overall_rank_error,6.0
+335,12,K,Jake Elliott,overall_rank_error,7.0
+336,12,K,Chad Ryland,overall_rank_error,
+337,12,K,Austin Seibert,overall_rank_error,
+338,12,K,Brandon McManus,overall_rank_error,
+339,12,K,Matt Gay,overall_rank_error,
+340,12,K,Joshua Karty,overall_rank_error,
+341,12,K,Jason Myers,overall_rank_error,
+342,12,K,Joey Slye,overall_rank_error,
+343,12,K,Daniel Carlson,overall_rank_error,
+344,12,K,Dustin Hopkins,overall_rank_error,
+345,12,K,Cairo Santos,overall_rank_error,
+346,12,K,Graham Gano,overall_rank_error,
+347,12,K,Nick Folk,overall_rank_error,
+348,12,K,Eddy Pineiro,overall_rank_error,
+349,13,K,Cameron Dicker,overall_rank_error,7.0
+350,13,K,Jake Bates,overall_rank_error,6.0
+351,13,K,Ka'imi Fairbairn,overall_rank_error,3.0
+352,13,K,Chris Boswell,overall_rank_error,2.0
+353,13,K,Chase McLaughlin,overall_rank_error,3.0
+354,13,K,Brandon Aubrey,overall_rank_error,10.0
+355,13,K,Wil Lutz,overall_rank_error,5.0
+356,13,K,Justin Tucker,overall_rank_error,8.0
+357,13,K,Jake Elliott,overall_rank_error,13.0
+358,13,K,Tyler Bass,overall_rank_error,14.0
+359,13,K,Brandon McManus,overall_rank_error,6.0
+360,13,K,Jason Sanders,overall_rank_error,
+361,13,K,Chad Ryland,overall_rank_error,
+362,13,K,Younghoe Koo,overall_rank_error,
+363,13,K,Joshua Karty,overall_rank_error,
+364,13,K,Evan McPherson,overall_rank_error,
+365,13,K,Jason Myers,overall_rank_error,
+366,13,K,Matt Gay,overall_rank_error,
+367,13,K,Zane Gonzalez,overall_rank_error,
+368,13,K,Jake Moody,overall_rank_error,
+369,13,K,Blake Grupe,overall_rank_error,
+370,13,K,Matthew Wright,overall_rank_error,
+371,13,K,Joey Slye,overall_rank_error,
+372,13,K,Nick Folk,overall_rank_error,
+373,13,K,Cairo Santos,overall_rank_error,
+374,13,K,Dustin Hopkins,overall_rank_error,
+375,13,K,Eddy Pineiro,overall_rank_error,
+376,13,K,Daniel Carlson,overall_rank_error,
+377,13,K,Cam Little,overall_rank_error,
+378,13,K,Graham Gano,overall_rank_error,
+379,1,K,Evan McPherson,Andy Behrens_error,20.0
+380,1,K,Harrison Butker,Andy Behrens_error,15.0
+381,1,K,Justin Tucker,Andy Behrens_error,15.0
+382,1,K,Ka'imi Fairbairn,Andy Behrens_error,1.0
+383,1,K,Jake Elliott,Andy Behrens_error,9.0
+384,1,K,Tyler Bass,Andy Behrens_error,4.0
+385,1,K,Brandon Aubrey,Andy Behrens_error,1.0
+386,1,K,Jason Sanders,Andy Behrens_error,3.0
+387,1,K,Younghoe Koo,Andy Behrens_error,17.0
+388,1,K,Jake Moody,Andy Behrens_error,8.0
+389,1,K,Cairo Santos,Andy Behrens_error,
+390,1,K,Jason Myers,Andy Behrens_error,
+391,1,K,Jake Bates,Andy Behrens_error,7.0
+392,1,K,Cameron Dicker,Andy Behrens_error,
+393,1,K,Blake Grupe,Andy Behrens_error,
+394,1,K,Dustin Hopkins,Andy Behrens_error,
+395,1,K,Chase McLaughlin,Andy Behrens_error,
+396,1,K,Daniel Carlson,Andy Behrens_error,
+397,1,K,Chris Boswell,Andy Behrens_error,
+398,1,K,Greg Zuerlein,Andy Behrens_error,20.0
+399,1,K,Joshua Karty,Andy Behrens_error,
+400,1,K,Matt Prater,Andy Behrens_error,
+401,1,K,Graham Gano,Andy Behrens_error,
+402,1,K,Will Reichard,Andy Behrens_error,
+403,1,K,Eddy Pineiro,Andy Behrens_error,
+404,1,K,Cam Little,Andy Behrens_error,
+405,1,K,Wil Lutz,Andy Behrens_error,
+406,1,K,Joey Slye,Andy Behrens_error,
+407,1,K,Brayden Narveson,Andy Behrens_error,
+408,1,K,Nick Folk,Andy Behrens_error,
+409,1,K,Spencer Shrader,Andy Behrens_error,
+410,1,K,Cade York,Andy Behrens_error,
+411,2,K,Justin Tucker,Andy Behrens_error,4.0
+412,2,K,Harrison Butker,Andy Behrens_error,11.0
+413,2,K,Brandon Aubrey,Andy Behrens_error,3.0
+414,2,K,Ka'imi Fairbairn,Andy Behrens_error,2.0
+415,2,K,Jake Elliott,Andy Behrens_error,16.0
+416,2,K,Tyler Bass,Andy Behrens_error,11.0
+417,2,K,Jake Moody,Andy Behrens_error,22.0
+418,2,K,Jason Sanders,Andy Behrens_error,19.0
+419,2,K,Evan McPherson,Andy Behrens_error,2.0
+420,2,K,Chris Boswell,Andy Behrens_error,7.0
+421,2,K,Younghoe Koo,Andy Behrens_error,
+422,2,K,Cameron Dicker,Andy Behrens_error,3.0
+423,2,K,Cairo Santos,Andy Behrens_error,1.0
+424,2,K,Jake Bates,Andy Behrens_error,
+425,2,K,Jason Myers,Andy Behrens_error,
+426,2,K,Blake Grupe,Andy Behrens_error,
+427,2,K,Chase McLaughlin,Andy Behrens_error,
+428,2,K,Joshua Karty,Andy Behrens_error,
+429,2,K,Greg Zuerlein,Andy Behrens_error,
+430,2,K,Dustin Hopkins,Andy Behrens_error,
+431,2,K,Matt Prater,Andy Behrens_error,
+432,2,K,Daniel Carlson,Andy Behrens_error,
+433,2,K,Cam Little,Andy Behrens_error,
+434,2,K,Will Reichard,Andy Behrens_error,
+435,2,K,Wil Lutz,Andy Behrens_error,
+436,2,K,Nick Folk,Andy Behrens_error,
+437,2,K,Eddy Pineiro,Andy Behrens_error,
+438,2,K,Brayden Narveson,Andy Behrens_error,
+439,3,K,Harrison Butker,Andy Behrens_error,0.0
+440,3,K,Jake Moody,Andy Behrens_error,12.0
+441,3,K,Brandon Aubrey,Andy Behrens_error,6.0
+442,3,K,Ka'imi Fairbairn,Andy Behrens_error,25.0
+443,3,K,Justin Tucker,Andy Behrens_error,14.0
+444,3,K,Evan McPherson,Andy Behrens_error,1.0
+445,3,K,Jake Elliott,Andy Behrens_error,21.0
+446,3,K,Blake Grupe,Andy Behrens_error,10.0
+447,3,K,Daniel Carlson,Andy Behrens_error,15.0
+448,3,K,Cameron Dicker,Andy Behrens_error,13.0
+449,3,K,Tyler Bass,Andy Behrens_error,
+450,3,K,Younghoe Koo,Andy Behrens_error,4.0
+451,3,K,Chase McLaughlin,Andy Behrens_error,
+452,3,K,Jake Bates,Andy Behrens_error,14.0
+453,3,K,Cairo Santos,Andy Behrens_error,
+454,3,K,Jason Myers,Andy Behrens_error,
+455,3,K,Dustin Hopkins,Andy Behrens_error,
+456,3,K,Chris Boswell,Andy Behrens_error,
+457,3,K,Matt Prater,Andy Behrens_error,
+458,3,K,Greg Zuerlein,Andy Behrens_error,
+459,3,K,Jason Sanders,Andy Behrens_error,
+460,3,K,Will Reichard,Andy Behrens_error,
+461,3,K,Brayden Narveson,Andy Behrens_error,
+462,3,K,Cam Little,Andy Behrens_error,
+463,3,K,Joshua Karty,Andy Behrens_error,
+464,3,K,Wil Lutz,Andy Behrens_error,
+465,3,K,Matt Gay,Andy Behrens_error,
+466,3,K,Austin Seibert,Andy Behrens_error,
+467,3,K,Eddy Pineiro,Andy Behrens_error,
+468,3,K,Joey Slye,Andy Behrens_error,
+469,3,K,Nick Folk,Andy Behrens_error,
+470,4,K,Brandon Aubrey,Andy Behrens_error,6.0
+471,4,K,Ka'imi Fairbairn,Andy Behrens_error,18.0
+472,4,K,Harrison Butker,Andy Behrens_error,24.0
+473,4,K,Jake Moody,Andy Behrens_error,0.0
+474,4,K,Evan McPherson,Andy Behrens_error,1.0
+475,4,K,Matt Prater,Andy Behrens_error,22.0
+476,4,K,Justin Tucker,Andy Behrens_error,18.0
+477,4,K,Younghoe Koo,Andy Behrens_error,5.0
+478,4,K,Blake Grupe,Andy Behrens_error,11.0
+479,4,K,Chase McLaughlin,Andy Behrens_error,3.0
+480,4,K,Chris Boswell,Andy Behrens_error,5.0
+481,4,K,Jason Myers,Andy Behrens_error,
+482,4,K,Tyler Bass,Andy Behrens_error,
+483,4,K,Jake Elliott,Andy Behrens_error,
+484,4,K,Jake Bates,Andy Behrens_error,9.0
+485,4,K,Dustin Hopkins,Andy Behrens_error,
+486,4,K,Cairo Santos,Andy Behrens_error,
+487,4,K,Daniel Carlson,Andy Behrens_error,
+488,4,K,Will Reichard,Andy Behrens_error,
+489,4,K,Brayden Narveson,Andy Behrens_error,
+490,4,K,Cameron Dicker,Andy Behrens_error,
+491,4,K,Greg Zuerlein,Andy Behrens_error,
+492,4,K,Wil Lutz,Andy Behrens_error,
+493,4,K,Austin Seibert,Andy Behrens_error,
+494,4,K,Jason Sanders,Andy Behrens_error,
+495,4,K,Cam Little,Andy Behrens_error,
+496,4,K,Greg Joseph,Andy Behrens_error,
+497,4,K,Eddy Pineiro,Andy Behrens_error,
+498,4,K,Joshua Karty,Andy Behrens_error,
+499,4,K,Nick Folk,Andy Behrens_error,
+500,4,K,Joey Slye,Andy Behrens_error,
+501,4,K,Matt Gay,Andy Behrens_error,
+502,5,K,Brandon Aubrey,Andy Behrens_error,11.0
+503,5,K,Harrison Butker,Andy Behrens_error,3.0
+504,5,K,Ka'imi Fairbairn,Andy Behrens_error,1.0
+505,5,K,Younghoe Koo,Andy Behrens_error,3.0
+506,5,K,Justin Tucker,Andy Behrens_error,2.0
+507,5,K,Jake Moody,Andy Behrens_error,10.0
+508,5,K,Chase McLaughlin,Andy Behrens_error,4.0
+509,5,K,Evan McPherson,Andy Behrens_error,16.0
+510,5,K,Tyler Bass,Andy Behrens_error,8.0
+511,5,K,Jason Myers,Andy Behrens_error,1.0
+512,5,K,Cairo Santos,Andy Behrens_error,8.0
+513,5,K,Chris Boswell,Andy Behrens_error,
+514,5,K,Dustin Hopkins,Andy Behrens_error,
+515,5,K,Blake Grupe,Andy Behrens_error,17.0
+516,5,K,Austin Seibert,Andy Behrens_error,
+517,5,K,Wil Lutz,Andy Behrens_error,
+518,5,K,Will Reichard,Andy Behrens_error,
+519,5,K,Matt Gay,Andy Behrens_error,
+520,5,K,Greg Zuerlein,Andy Behrens_error,
+521,5,K,Cam Little,Andy Behrens_error,
+522,5,K,Brayden Narveson,Andy Behrens_error,
+523,5,K,Daniel Carlson,Andy Behrens_error,
+524,5,K,Eddy Pineiro,Andy Behrens_error,
+525,5,K,Joshua Karty,Andy Behrens_error,
+526,5,K,Joey Slye,Andy Behrens_error,
+527,5,K,Chad Ryland,Andy Behrens_error,
+528,5,K,Jason Sanders,Andy Behrens_error,
+529,5,K,Greg Joseph,Andy Behrens_error,
+530,6,K,Brandon Aubrey,Andy Behrens_error,5.0
+531,6,K,Younghoe Koo,Andy Behrens_error,3.0
+532,6,K,Ka'imi Fairbairn,Andy Behrens_error,4.0
+533,6,K,Justin Tucker,Andy Behrens_error,0.0
+534,6,K,Chase McLaughlin,Andy Behrens_error,9.0
+535,6,K,Evan McPherson,Andy Behrens_error,15.0
+536,6,K,Chris Boswell,Andy Behrens_error,9.0
+537,6,K,Austin Seibert,Andy Behrens_error,4.0
+538,6,K,Jake Elliott,Andy Behrens_error,2.0
+539,6,K,Jason Myers,Andy Behrens_error,7.0
+540,6,K,Tyler Bass,Andy Behrens_error,12.0
+541,6,K,Cameron Dicker,Andy Behrens_error,2.0
+542,6,K,Greg Joseph,Andy Behrens_error,
+543,6,K,Cairo Santos,Andy Behrens_error,
+544,6,K,Jake Bates,Andy Behrens_error,
+545,6,K,Brayden Narveson,Andy Behrens_error,
+546,6,K,Blake Grupe,Andy Behrens_error,
+547,6,K,Matt Gay,Andy Behrens_error,
+548,6,K,Wil Lutz,Andy Behrens_error,
+549,6,K,Nick Folk,Andy Behrens_error,
+550,6,K,Cam Little,Andy Behrens_error,
+551,6,K,Eddy Pineiro,Andy Behrens_error,
+552,6,K,Chad Ryland,Andy Behrens_error,
+553,6,K,Matthew Wright,Andy Behrens_error,
+554,6,K,Daniel Carlson,Andy Behrens_error,
+555,6,K,Greg Zuerlein,Andy Behrens_error,
+556,6,K,Dustin Hopkins,Andy Behrens_error,
+557,6,K,Joey Slye,Andy Behrens_error,
+558,7,K,Younghoe Koo,Andy Behrens_error,24.0
+559,7,K,Justin Tucker,Andy Behrens_error,3.0
+560,7,K,Ka'imi Fairbairn,Andy Behrens_error,3.0
+561,7,K,Austin Seibert,Andy Behrens_error,4.0
+562,7,K,Evan McPherson,Andy Behrens_error,18.0
+563,7,K,Will Reichard,Andy Behrens_error,2.0
+564,7,K,Chase McLaughlin,Andy Behrens_error,8.0
+565,7,K,Harrison Butker,Andy Behrens_error,18.0
+566,7,K,Jake Elliott,Andy Behrens_error,9.0
+567,7,K,Cameron Dicker,Andy Behrens_error,10.0
+568,7,K,Jake Bates,Andy Behrens_error,3.0
+569,7,K,Jason Myers,Andy Behrens_error,
+570,7,K,Tyler Bass,Andy Behrens_error,
+571,7,K,Matt Gay,Andy Behrens_error,
+572,7,K,Blake Grupe,Andy Behrens_error,7.0
+573,7,K,Chris Boswell,Andy Behrens_error,
+574,7,K,Wil Lutz,Andy Behrens_error,
+575,7,K,Joshua Karty,Andy Behrens_error,
+576,7,K,Jason Sanders,Andy Behrens_error,
+577,7,K,Greg Joseph,Andy Behrens_error,
+578,7,K,Dustin Hopkins,Andy Behrens_error,
+579,7,K,Cam Little,Andy Behrens_error,
+580,7,K,Brandon McManus,Andy Behrens_error,
+581,7,K,Anders Carlson,Andy Behrens_error,
+582,7,K,Eddy Pineiro,Andy Behrens_error,
+583,7,K,Greg Zuerlein,Andy Behrens_error,
+584,7,K,Nick Folk,Andy Behrens_error,
+585,7,K,Daniel Carlson,Andy Behrens_error,
+586,7,K,Joey Slye,Andy Behrens_error,
+587,7,K,Chad Ryland,Andy Behrens_error,
+588,8,K,Will Reichard,Andy Behrens_error,16.0
+589,8,K,Justin Tucker,Andy Behrens_error,17.0
+590,8,K,Ka'imi Fairbairn,Andy Behrens_error,4.0
+591,8,K,Brandon Aubrey,Andy Behrens_error,21.0
+592,8,K,Younghoe Koo,Andy Behrens_error,16.0
+593,8,K,Harrison Butker,Andy Behrens_error,2.0
+594,8,K,Austin Seibert,Andy Behrens_error,2.0
+595,8,K,Evan McPherson,Andy Behrens_error,18.0
+596,8,K,Chase McLaughlin,Andy Behrens_error,9.0
+597,8,K,Wil Lutz,Andy Behrens_error,
+598,8,K,Cameron Dicker,Andy Behrens_error,
+599,8,K,Jake Bates,Andy Behrens_error,
+600,8,K,Chris Boswell,Andy Behrens_error,8.0
+601,8,K,Brandon McManus,Andy Behrens_error,4.0
+602,8,K,Jason Myers,Andy Behrens_error,
+603,8,K,Jake Elliott,Andy Behrens_error,10.0
+604,8,K,Tyler Bass,Andy Behrens_error,
+605,8,K,Cairo Santos,Andy Behrens_error,
+606,8,K,Joshua Karty,Andy Behrens_error,
+607,8,K,Matt Gay,Andy Behrens_error,
+608,8,K,Jason Sanders,Andy Behrens_error,
+609,8,K,Anders Carlson,Andy Behrens_error,
+610,8,K,Chad Ryland,Andy Behrens_error,
+611,8,K,Cam Little,Andy Behrens_error,
+612,8,K,Daniel Carlson,Andy Behrens_error,
+613,8,K,Blake Grupe,Andy Behrens_error,
+614,8,K,Dustin Hopkins,Andy Behrens_error,
+615,8,K,Joey Slye,Andy Behrens_error,
+616,8,K,Greg Zuerlein,Andy Behrens_error,
+617,8,K,Nick Folk,Andy Behrens_error,
+618,8,K,Eddy Pineiro,Andy Behrens_error,
+619,8,K,Greg Joseph,Andy Behrens_error,
+620,9,K,Brandon Aubrey,Andy Behrens_error,6.0
+621,9,K,Will Reichard,Andy Behrens_error,24.0
+622,9,K,Younghoe Koo,Andy Behrens_error,21.0
+623,9,K,Austin Seibert,Andy Behrens_error,3.0
+624,9,K,Justin Tucker,Andy Behrens_error,2.0
+625,9,K,Harrison Butker,Andy Behrens_error,11.0
+626,9,K,Ka'imi Fairbairn,Andy Behrens_error,0.0
+627,9,K,Cameron Dicker,Andy Behrens_error,19.0
+628,9,K,Evan McPherson,Andy Behrens_error,6.0
+629,9,K,Brandon McManus,Andy Behrens_error,6.0
+630,9,K,Jake Elliott,Andy Behrens_error,11.0
+631,9,K,Tyler Bass,Andy Behrens_error,
+632,9,K,Jake Bates,Andy Behrens_error,
+633,9,K,Chase McLaughlin,Andy Behrens_error,3.0
+634,9,K,Jason Myers,Andy Behrens_error,
+635,9,K,Blake Grupe,Andy Behrens_error,
+636,9,K,Wil Lutz,Andy Behrens_error,
+637,9,K,Cairo Santos,Andy Behrens_error,
+638,9,K,Chad Ryland,Andy Behrens_error,
+639,9,K,Jason Sanders,Andy Behrens_error,
+640,9,K,Matt Gay,Andy Behrens_error,
+641,9,K,Joshua Karty,Andy Behrens_error,
+642,9,K,Dustin Hopkins,Andy Behrens_error,
+643,9,K,Cam Little,Andy Behrens_error,
+644,9,K,Daniel Carlson,Andy Behrens_error,
+645,9,K,Joey Slye,Andy Behrens_error,
+646,9,K,Riley Patterson,Andy Behrens_error,
+647,9,K,Eddy Pineiro,Andy Behrens_error,
+648,9,K,Nick Folk,Andy Behrens_error,
+649,9,K,Jude McAtamney,Andy Behrens_error,
+650,10,K,Younghoe Koo,Andy Behrens_error,20.0
+651,10,K,Justin Tucker,Andy Behrens_error,21.0
+652,10,K,Cameron Dicker,Andy Behrens_error,11.0
+653,10,K,Tyler Bass,Andy Behrens_error,3.0
+654,10,K,Chris Boswell,Andy Behrens_error,14.0
+655,10,K,Harrison Butker,Andy Behrens_error,7.0
+656,10,K,Ka'imi Fairbairn,Andy Behrens_error,5.0
+657,10,K,Brandon Aubrey,Andy Behrens_error,12.0
+658,10,K,Jake Elliott,Andy Behrens_error,
+659,10,K,Jake Bates,Andy Behrens_error,
+660,10,K,Jason Sanders,Andy Behrens_error,9.0
+661,10,K,Evan McPherson,Andy Behrens_error,13.0
+662,10,K,Jake Moody,Andy Behrens_error,0.0
+663,10,K,Joshua Karty,Andy Behrens_error,11.0
+664,10,K,Matt Gay,Andy Behrens_error,
+665,10,K,Blake Grupe,Andy Behrens_error,
+666,10,K,Chad Ryland,Andy Behrens_error,
+667,10,K,Chase McLaughlin,Andy Behrens_error,
+668,10,K,Wil Lutz,Andy Behrens_error,
+669,10,K,Zane Gonzalez,Andy Behrens_error,
+670,10,K,Cairo Santos,Andy Behrens_error,
+671,10,K,Cam Little,Andy Behrens_error,
+672,10,K,Joey Slye,Andy Behrens_error,
+673,10,K,Nick Folk,Andy Behrens_error,
+674,10,K,Spencer Shrader,Andy Behrens_error,
+675,10,K,Eddy Pineiro,Andy Behrens_error,
+676,11,K,Ka'imi Fairbairn,Andy Behrens_error,8.0
+677,11,K,Jake Bates,Andy Behrens_error,0.0
+678,11,K,Cameron Dicker,Andy Behrens_error,1.0
+679,11,K,Chris Boswell,Andy Behrens_error,6.0
+680,11,K,Justin Tucker,Andy Behrens_error,14.0
+681,11,K,Jake Moody,Andy Behrens_error,17.0
+682,11,K,Tyler Bass,Andy Behrens_error,9.0
+683,11,K,Younghoe Koo,Andy Behrens_error,4.0
+684,11,K,Jason Sanders,Andy Behrens_error,
+685,11,K,Jake Elliott,Andy Behrens_error,
+686,11,K,Brandon McManus,Andy Behrens_error,
+687,11,K,Wil Lutz,Andy Behrens_error,2.0
+688,11,K,Joshua Karty,Andy Behrens_error,17.0
+689,11,K,Brandon Aubrey,Andy Behrens_error,8.0
+690,11,K,Evan McPherson,Andy Behrens_error,
+691,11,K,Zane Gonzalez,Andy Behrens_error,11.0
+692,11,K,Blake Grupe,Andy Behrens_error,
+693,11,K,Dustin Hopkins,Andy Behrens_error,
+694,11,K,Matt Gay,Andy Behrens_error,
+695,11,K,Jason Myers,Andy Behrens_error,
+696,11,K,Spencer Shrader,Andy Behrens_error,
+697,11,K,Cairo Santos,Andy Behrens_error,
+698,11,K,Daniel Carlson,Andy Behrens_error,
+699,11,K,Joey Slye,Andy Behrens_error,
+700,11,K,Cam Little,Andy Behrens_error,
+701,11,K,Anders Carlson,Andy Behrens_error,
+702,11,K,Nick Folk,Andy Behrens_error,
+703,12,K,Jake Bates,Andy Behrens_error,12.0
+704,12,K,Ka'imi Fairbairn,Andy Behrens_error,9.0
+705,12,K,Cameron Dicker,Andy Behrens_error,2.0
+706,12,K,Jason Sanders,Andy Behrens_error,0.0
+707,12,K,Wil Lutz,Andy Behrens_error,4.0
+708,12,K,Justin Tucker,Andy Behrens_error,11.0
+709,12,K,Chris Boswell,Andy Behrens_error,4.0
+710,12,K,Chase McLaughlin,Andy Behrens_error,14.0
+711,12,K,Jake Moody,Andy Behrens_error,
+712,12,K,Brandon Aubrey,Andy Behrens_error,2.0
+713,12,K,Spencer Shrader,Andy Behrens_error,7.0
+714,12,K,Jake Elliott,Andy Behrens_error,
+715,12,K,Chad Ryland,Andy Behrens_error,8.0
+716,12,K,Austin Seibert,Andy Behrens_error,5.0
+717,12,K,Brandon McManus,Andy Behrens_error,
+718,12,K,Matt Gay,Andy Behrens_error,
+719,12,K,Joshua Karty,Andy Behrens_error,
+720,12,K,Jason Myers,Andy Behrens_error,
+721,12,K,Joey Slye,Andy Behrens_error,
+722,12,K,Daniel Carlson,Andy Behrens_error,
+723,12,K,Dustin Hopkins,Andy Behrens_error,
+724,12,K,Cairo Santos,Andy Behrens_error,
+725,12,K,Graham Gano,Andy Behrens_error,
+726,12,K,Nick Folk,Andy Behrens_error,
+727,12,K,Eddy Pineiro,Andy Behrens_error,
+728,13,K,Cameron Dicker,Andy Behrens_error,7.0
+729,13,K,Jake Bates,Andy Behrens_error,3.0
+730,13,K,Ka'imi Fairbairn,Andy Behrens_error,2.0
+731,13,K,Chris Boswell,Andy Behrens_error,0.0
+732,13,K,Chase McLaughlin,Andy Behrens_error,5.0
+733,13,K,Brandon Aubrey,Andy Behrens_error,13.0
+734,13,K,Wil Lutz,Andy Behrens_error,8.0
+735,13,K,Justin Tucker,Andy Behrens_error,10.0
+736,13,K,Jake Elliott,Andy Behrens_error,12.0
+737,13,K,Tyler Bass,Andy Behrens_error,
+738,13,K,Brandon McManus,Andy Behrens_error,
+739,13,K,Jason Sanders,Andy Behrens_error,
+740,13,K,Chad Ryland,Andy Behrens_error,
+741,13,K,Younghoe Koo,Andy Behrens_error,7.0
+742,13,K,Joshua Karty,Andy Behrens_error,
+743,13,K,Evan McPherson,Andy Behrens_error,
+744,13,K,Jason Myers,Andy Behrens_error,
+745,13,K,Matt Gay,Andy Behrens_error,
+746,13,K,Zane Gonzalez,Andy Behrens_error,11.0
+747,13,K,Jake Moody,Andy Behrens_error,
+748,13,K,Blake Grupe,Andy Behrens_error,
+749,13,K,Matthew Wright,Andy Behrens_error,
+750,13,K,Joey Slye,Andy Behrens_error,
+751,13,K,Nick Folk,Andy Behrens_error,
+752,13,K,Cairo Santos,Andy Behrens_error,
+753,13,K,Dustin Hopkins,Andy Behrens_error,
+754,13,K,Eddy Pineiro,Andy Behrens_error,
+755,13,K,Daniel Carlson,Andy Behrens_error,
+756,13,K,Cam Little,Andy Behrens_error,
+757,13,K,Graham Gano,Andy Behrens_error,
+758,1,K,Evan McPherson,Scott Pianowski_error,22.0
+759,1,K,Harrison Butker,Scott Pianowski_error,13.0
+760,1,K,Justin Tucker,Scott Pianowski_error,17.0
+761,1,K,Ka'imi Fairbairn,Scott Pianowski_error,1.0
+762,1,K,Jake Elliott,Scott Pianowski_error,5.0
+763,1,K,Tyler Bass,Scott Pianowski_error,4.0
+764,1,K,Brandon Aubrey,Scott Pianowski_error,1.0
+765,1,K,Jason Sanders,Scott Pianowski_error,3.0
+766,1,K,Younghoe Koo,Scott Pianowski_error,18.0
+767,1,K,Jake Moody,Scott Pianowski_error,9.0
+768,1,K,Cairo Santos,Scott Pianowski_error,4.0
+769,1,K,Jason Myers,Scott Pianowski_error,
+770,1,K,Jake Bates,Scott Pianowski_error,
+771,1,K,Cameron Dicker,Scott Pianowski_error,
+772,1,K,Blake Grupe,Scott Pianowski_error,
+773,1,K,Dustin Hopkins,Scott Pianowski_error,
+774,1,K,Chase McLaughlin,Scott Pianowski_error,
+775,1,K,Daniel Carlson,Scott Pianowski_error,
+776,1,K,Chris Boswell,Scott Pianowski_error,
+777,1,K,Greg Zuerlein,Scott Pianowski_error,
+778,1,K,Joshua Karty,Scott Pianowski_error,4.0
+779,1,K,Matt Prater,Scott Pianowski_error,
+780,1,K,Graham Gano,Scott Pianowski_error,
+781,1,K,Will Reichard,Scott Pianowski_error,
+782,1,K,Eddy Pineiro,Scott Pianowski_error,
+783,1,K,Cam Little,Scott Pianowski_error,
+784,1,K,Wil Lutz,Scott Pianowski_error,
+785,1,K,Joey Slye,Scott Pianowski_error,
+786,1,K,Brayden Narveson,Scott Pianowski_error,
+787,1,K,Nick Folk,Scott Pianowski_error,
+788,1,K,Spencer Shrader,Scott Pianowski_error,
+789,1,K,Cade York,Scott Pianowski_error,
+790,2,K,Justin Tucker,Scott Pianowski_error,5.0
+791,2,K,Harrison Butker,Scott Pianowski_error,10.0
+792,2,K,Brandon Aubrey,Scott Pianowski_error,3.0
+793,2,K,Ka'imi Fairbairn,Scott Pianowski_error,2.0
+794,2,K,Jake Elliott,Scott Pianowski_error,17.0
+795,2,K,Tyler Bass,Scott Pianowski_error,11.0
+796,2,K,Jake Moody,Scott Pianowski_error,21.0
+797,2,K,Jason Sanders,Scott Pianowski_error,21.0
+798,2,K,Evan McPherson,Scott Pianowski_error,4.0
+799,2,K,Chris Boswell,Scott Pianowski_error,6.0
+800,2,K,Younghoe Koo,Scott Pianowski_error,3.0
+801,2,K,Cameron Dicker,Scott Pianowski_error,2.0
+802,2,K,Cairo Santos,Scott Pianowski_error,
+803,2,K,Jake Bates,Scott Pianowski_error,
+804,2,K,Jason Myers,Scott Pianowski_error,
+805,2,K,Blake Grupe,Scott Pianowski_error,
+806,2,K,Chase McLaughlin,Scott Pianowski_error,
+807,2,K,Joshua Karty,Scott Pianowski_error,
+808,2,K,Greg Zuerlein,Scott Pianowski_error,
+809,2,K,Dustin Hopkins,Scott Pianowski_error,
+810,2,K,Matt Prater,Scott Pianowski_error,
+811,2,K,Daniel Carlson,Scott Pianowski_error,
+812,2,K,Cam Little,Scott Pianowski_error,
+813,2,K,Will Reichard,Scott Pianowski_error,
+814,2,K,Wil Lutz,Scott Pianowski_error,
+815,2,K,Nick Folk,Scott Pianowski_error,
+816,2,K,Eddy Pineiro,Scott Pianowski_error,
+817,2,K,Brayden Narveson,Scott Pianowski_error,
+818,3,K,Harrison Butker,Scott Pianowski_error,1.0
+819,3,K,Jake Moody,Scott Pianowski_error,11.0
+820,3,K,Brandon Aubrey,Scott Pianowski_error,5.0
+821,3,K,Ka'imi Fairbairn,Scott Pianowski_error,26.0
+822,3,K,Justin Tucker,Scott Pianowski_error,15.0
+823,3,K,Evan McPherson,Scott Pianowski_error,0.0
+824,3,K,Jake Elliott,Scott Pianowski_error,23.0
+825,3,K,Blake Grupe,Scott Pianowski_error,6.0
+826,3,K,Daniel Carlson,Scott Pianowski_error,15.0
+827,3,K,Cameron Dicker,Scott Pianowski_error,8.0
+828,3,K,Tyler Bass,Scott Pianowski_error,2.0
+829,3,K,Younghoe Koo,Scott Pianowski_error,
+830,3,K,Chase McLaughlin,Scott Pianowski_error,
+831,3,K,Jake Bates,Scott Pianowski_error,16.0
+832,3,K,Cairo Santos,Scott Pianowski_error,
+833,3,K,Jason Myers,Scott Pianowski_error,
+834,3,K,Dustin Hopkins,Scott Pianowski_error,
+835,3,K,Chris Boswell,Scott Pianowski_error,
+836,3,K,Matt Prater,Scott Pianowski_error,
+837,3,K,Greg Zuerlein,Scott Pianowski_error,
+838,3,K,Jason Sanders,Scott Pianowski_error,
+839,3,K,Will Reichard,Scott Pianowski_error,
+840,3,K,Brayden Narveson,Scott Pianowski_error,
+841,3,K,Cam Little,Scott Pianowski_error,
+842,3,K,Joshua Karty,Scott Pianowski_error,
+843,3,K,Wil Lutz,Scott Pianowski_error,
+844,3,K,Matt Gay,Scott Pianowski_error,
+845,3,K,Austin Seibert,Scott Pianowski_error,
+846,3,K,Eddy Pineiro,Scott Pianowski_error,
+847,3,K,Joey Slye,Scott Pianowski_error,
+848,3,K,Nick Folk,Scott Pianowski_error,
+849,4,K,Brandon Aubrey,Scott Pianowski_error,6.0
+850,4,K,Ka'imi Fairbairn,Scott Pianowski_error,19.0
+851,4,K,Harrison Butker,Scott Pianowski_error,23.0
+852,4,K,Jake Moody,Scott Pianowski_error,1.0
+853,4,K,Evan McPherson,Scott Pianowski_error,0.0
+854,4,K,Matt Prater,Scott Pianowski_error,25.0
+855,4,K,Justin Tucker,Scott Pianowski_error,18.0
+856,4,K,Younghoe Koo,Scott Pianowski_error,5.0
+857,4,K,Blake Grupe,Scott Pianowski_error,8.0
+858,4,K,Chase McLaughlin,Scott Pianowski_error,4.0
+859,4,K,Chris Boswell,Scott Pianowski_error,6.0
+860,4,K,Jason Myers,Scott Pianowski_error,17.0
+861,4,K,Tyler Bass,Scott Pianowski_error,
+862,4,K,Jake Elliott,Scott Pianowski_error,
+863,4,K,Jake Bates,Scott Pianowski_error,
+864,4,K,Dustin Hopkins,Scott Pianowski_error,
+865,4,K,Cairo Santos,Scott Pianowski_error,
+866,4,K,Daniel Carlson,Scott Pianowski_error,
+867,4,K,Will Reichard,Scott Pianowski_error,
+868,4,K,Brayden Narveson,Scott Pianowski_error,
+869,4,K,Cameron Dicker,Scott Pianowski_error,
+870,4,K,Greg Zuerlein,Scott Pianowski_error,
+871,4,K,Wil Lutz,Scott Pianowski_error,
+872,4,K,Austin Seibert,Scott Pianowski_error,
+873,4,K,Jason Sanders,Scott Pianowski_error,
+874,4,K,Cam Little,Scott Pianowski_error,
+875,4,K,Greg Joseph,Scott Pianowski_error,
+876,4,K,Eddy Pineiro,Scott Pianowski_error,
+877,4,K,Joshua Karty,Scott Pianowski_error,
+878,4,K,Nick Folk,Scott Pianowski_error,
+879,4,K,Joey Slye,Scott Pianowski_error,
+880,4,K,Matt Gay,Scott Pianowski_error,
+881,5,K,Brandon Aubrey,Scott Pianowski_error,11.0
+882,5,K,Harrison Butker,Scott Pianowski_error,2.0
+883,5,K,Ka'imi Fairbairn,Scott Pianowski_error,0.0
+884,5,K,Younghoe Koo,Scott Pianowski_error,3.0
+885,5,K,Justin Tucker,Scott Pianowski_error,1.0
+886,5,K,Jake Moody,Scott Pianowski_error,12.0
+887,5,K,Chase McLaughlin,Scott Pianowski_error,8.0
+888,5,K,Evan McPherson,Scott Pianowski_error,16.0
+889,5,K,Tyler Bass,Scott Pianowski_error,8.0
+890,5,K,Jason Myers,Scott Pianowski_error,1.0
+891,5,K,Cairo Santos,Scott Pianowski_error,
+892,5,K,Chris Boswell,Scott Pianowski_error,13.0
+893,5,K,Dustin Hopkins,Scott Pianowski_error,
+894,5,K,Blake Grupe,Scott Pianowski_error,
+895,5,K,Austin Seibert,Scott Pianowski_error,0.0
+896,5,K,Wil Lutz,Scott Pianowski_error,
+897,5,K,Will Reichard,Scott Pianowski_error,
+898,5,K,Matt Gay,Scott Pianowski_error,
+899,5,K,Greg Zuerlein,Scott Pianowski_error,
+900,5,K,Cam Little,Scott Pianowski_error,
+901,5,K,Brayden Narveson,Scott Pianowski_error,
+902,5,K,Daniel Carlson,Scott Pianowski_error,
+903,5,K,Eddy Pineiro,Scott Pianowski_error,
+904,5,K,Joshua Karty,Scott Pianowski_error,
+905,5,K,Joey Slye,Scott Pianowski_error,
+906,5,K,Chad Ryland,Scott Pianowski_error,
+907,5,K,Jason Sanders,Scott Pianowski_error,
+908,5,K,Greg Joseph,Scott Pianowski_error,
+909,6,K,Brandon Aubrey,Scott Pianowski_error,5.0
+910,6,K,Younghoe Koo,Scott Pianowski_error,3.0
+911,6,K,Ka'imi Fairbairn,Scott Pianowski_error,4.0
+912,6,K,Justin Tucker,Scott Pianowski_error,0.0
+913,6,K,Chase McLaughlin,Scott Pianowski_error,9.0
+914,6,K,Evan McPherson,Scott Pianowski_error,15.0
+915,6,K,Chris Boswell,Scott Pianowski_error,5.0
+916,6,K,Austin Seibert,Scott Pianowski_error,5.0
+917,6,K,Jake Elliott,Scott Pianowski_error,0.0
+918,6,K,Jason Myers,Scott Pianowski_error,8.0
+919,6,K,Tyler Bass,Scott Pianowski_error,12.0
+920,6,K,Cameron Dicker,Scott Pianowski_error,4.0
+921,6,K,Greg Joseph,Scott Pianowski_error,
+922,6,K,Cairo Santos,Scott Pianowski_error,
+923,6,K,Jake Bates,Scott Pianowski_error,
+924,6,K,Brayden Narveson,Scott Pianowski_error,
+925,6,K,Blake Grupe,Scott Pianowski_error,
+926,6,K,Matt Gay,Scott Pianowski_error,
+927,6,K,Wil Lutz,Scott Pianowski_error,
+928,6,K,Nick Folk,Scott Pianowski_error,
+929,6,K,Cam Little,Scott Pianowski_error,
+930,6,K,Eddy Pineiro,Scott Pianowski_error,
+931,6,K,Chad Ryland,Scott Pianowski_error,
+932,6,K,Matthew Wright,Scott Pianowski_error,
+933,6,K,Daniel Carlson,Scott Pianowski_error,
+934,6,K,Greg Zuerlein,Scott Pianowski_error,
+935,6,K,Dustin Hopkins,Scott Pianowski_error,
+936,6,K,Joey Slye,Scott Pianowski_error,
+937,7,K,Younghoe Koo,Scott Pianowski_error,23.0
+938,7,K,Justin Tucker,Scott Pianowski_error,6.0
+939,7,K,Ka'imi Fairbairn,Scott Pianowski_error,6.0
+940,7,K,Austin Seibert,Scott Pianowski_error,1.0
+941,7,K,Evan McPherson,Scott Pianowski_error,17.0
+942,7,K,Will Reichard,Scott Pianowski_error,0.0
+943,7,K,Chase McLaughlin,Scott Pianowski_error,10.0
+944,7,K,Harrison Butker,Scott Pianowski_error,11.0
+945,7,K,Jake Elliott,Scott Pianowski_error,10.0
+946,7,K,Cameron Dicker,Scott Pianowski_error,11.0
+947,7,K,Jake Bates,Scott Pianowski_error,2.0
+948,7,K,Jason Myers,Scott Pianowski_error,
+949,7,K,Tyler Bass,Scott Pianowski_error,
+950,7,K,Matt Gay,Scott Pianowski_error,
+951,7,K,Blake Grupe,Scott Pianowski_error,
+952,7,K,Chris Boswell,Scott Pianowski_error,
+953,7,K,Wil Lutz,Scott Pianowski_error,9.0
+954,7,K,Joshua Karty,Scott Pianowski_error,
+955,7,K,Jason Sanders,Scott Pianowski_error,
+956,7,K,Greg Joseph,Scott Pianowski_error,
+957,7,K,Dustin Hopkins,Scott Pianowski_error,
+958,7,K,Cam Little,Scott Pianowski_error,
+959,7,K,Brandon McManus,Scott Pianowski_error,
+960,7,K,Anders Carlson,Scott Pianowski_error,
+961,7,K,Eddy Pineiro,Scott Pianowski_error,
+962,7,K,Greg Zuerlein,Scott Pianowski_error,
+963,7,K,Nick Folk,Scott Pianowski_error,
+964,7,K,Daniel Carlson,Scott Pianowski_error,
+965,7,K,Joey Slye,Scott Pianowski_error,
+966,7,K,Chad Ryland,Scott Pianowski_error,
+967,8,K,Will Reichard,Scott Pianowski_error,14.0
+968,8,K,Justin Tucker,Scott Pianowski_error,18.0
+969,8,K,Ka'imi Fairbairn,Scott Pianowski_error,8.0
+970,8,K,Brandon Aubrey,Scott Pianowski_error,18.0
+971,8,K,Younghoe Koo,Scott Pianowski_error,16.0
+972,8,K,Harrison Butker,Scott Pianowski_error,5.0
+973,8,K,Austin Seibert,Scott Pianowski_error,3.0
+974,8,K,Evan McPherson,Scott Pianowski_error,12.0
+975,8,K,Chase McLaughlin,Scott Pianowski_error,
+976,8,K,Wil Lutz,Scott Pianowski_error,16.0
+977,8,K,Cameron Dicker,Scott Pianowski_error,8.0
+978,8,K,Jake Bates,Scott Pianowski_error,
+979,8,K,Chris Boswell,Scott Pianowski_error,6.0
+980,8,K,Brandon McManus,Scott Pianowski_error,5.0
+981,8,K,Jason Myers,Scott Pianowski_error,
+982,8,K,Jake Elliott,Scott Pianowski_error,
+983,8,K,Tyler Bass,Scott Pianowski_error,
+984,8,K,Cairo Santos,Scott Pianowski_error,
+985,8,K,Joshua Karty,Scott Pianowski_error,
+986,8,K,Matt Gay,Scott Pianowski_error,
+987,8,K,Jason Sanders,Scott Pianowski_error,
+988,8,K,Anders Carlson,Scott Pianowski_error,
+989,8,K,Chad Ryland,Scott Pianowski_error,
+990,8,K,Cam Little,Scott Pianowski_error,
+991,8,K,Daniel Carlson,Scott Pianowski_error,
+992,8,K,Blake Grupe,Scott Pianowski_error,
+993,8,K,Dustin Hopkins,Scott Pianowski_error,
+994,8,K,Joey Slye,Scott Pianowski_error,
+995,8,K,Greg Zuerlein,Scott Pianowski_error,
+996,8,K,Nick Folk,Scott Pianowski_error,
+997,8,K,Eddy Pineiro,Scott Pianowski_error,
+998,8,K,Greg Joseph,Scott Pianowski_error,
+999,9,K,Brandon Aubrey,Scott Pianowski_error,7.0
+1000,9,K,Will Reichard,Scott Pianowski_error,23.0
+1001,9,K,Younghoe Koo,Scott Pianowski_error,21.0
+1002,9,K,Austin Seibert,Scott Pianowski_error,5.0
+1003,9,K,Justin Tucker,Scott Pianowski_error,1.0
+1004,9,K,Harrison Butker,Scott Pianowski_error,7.0
+1005,9,K,Ka'imi Fairbairn,Scott Pianowski_error,3.0
+1006,9,K,Cameron Dicker,Scott Pianowski_error,17.0
+1007,9,K,Evan McPherson,Scott Pianowski_error,7.0
+1008,9,K,Brandon McManus,Scott Pianowski_error,9.0
+1009,9,K,Jake Elliott,Scott Pianowski_error,9.0
+1010,9,K,Tyler Bass,Scott Pianowski_error,
+1011,9,K,Jake Bates,Scott Pianowski_error,7.0
+1012,9,K,Chase McLaughlin,Scott Pianowski_error,
+1013,9,K,Jason Myers,Scott Pianowski_error,
+1014,9,K,Blake Grupe,Scott Pianowski_error,
+1015,9,K,Wil Lutz,Scott Pianowski_error,
+1016,9,K,Cairo Santos,Scott Pianowski_error,
+1017,9,K,Chad Ryland,Scott Pianowski_error,
+1018,9,K,Jason Sanders,Scott Pianowski_error,
+1019,9,K,Matt Gay,Scott Pianowski_error,
+1020,9,K,Joshua Karty,Scott Pianowski_error,
+1021,9,K,Dustin Hopkins,Scott Pianowski_error,
+1022,9,K,Cam Little,Scott Pianowski_error,
+1023,9,K,Daniel Carlson,Scott Pianowski_error,
+1024,9,K,Joey Slye,Scott Pianowski_error,
+1025,9,K,Riley Patterson,Scott Pianowski_error,
+1026,9,K,Eddy Pineiro,Scott Pianowski_error,
+1027,9,K,Nick Folk,Scott Pianowski_error,
+1028,9,K,Jude McAtamney,Scott Pianowski_error,
+1029,10,K,Younghoe Koo,Scott Pianowski_error,19.0
+1030,10,K,Justin Tucker,Scott Pianowski_error,22.0
+1031,10,K,Cameron Dicker,Scott Pianowski_error,9.0
+1032,10,K,Tyler Bass,Scott Pianowski_error,2.0
+1033,10,K,Chris Boswell,Scott Pianowski_error,22.0
+1034,10,K,Harrison Butker,Scott Pianowski_error,2.0
+1035,10,K,Ka'imi Fairbairn,Scott Pianowski_error,3.0
+1036,10,K,Brandon Aubrey,Scott Pianowski_error,10.0
+1037,10,K,Jake Elliott,Scott Pianowski_error,1.0
+1038,10,K,Jake Bates,Scott Pianowski_error,3.0
+1039,10,K,Jason Sanders,Scott Pianowski_error,
+1040,10,K,Evan McPherson,Scott Pianowski_error,11.0
+1041,10,K,Jake Moody,Scott Pianowski_error,
+1042,10,K,Joshua Karty,Scott Pianowski_error,10.0
+1043,10,K,Matt Gay,Scott Pianowski_error,
+1044,10,K,Blake Grupe,Scott Pianowski_error,
+1045,10,K,Chad Ryland,Scott Pianowski_error,
+1046,10,K,Chase McLaughlin,Scott Pianowski_error,
+1047,10,K,Wil Lutz,Scott Pianowski_error,
+1048,10,K,Zane Gonzalez,Scott Pianowski_error,
+1049,10,K,Cairo Santos,Scott Pianowski_error,
+1050,10,K,Cam Little,Scott Pianowski_error,
+1051,10,K,Joey Slye,Scott Pianowski_error,
+1052,10,K,Nick Folk,Scott Pianowski_error,
+1053,10,K,Spencer Shrader,Scott Pianowski_error,
+1054,10,K,Eddy Pineiro,Scott Pianowski_error,
+1055,11,K,Ka'imi Fairbairn,Scott Pianowski_error,8.0
+1056,11,K,Jake Bates,Scott Pianowski_error,1.0
+1057,11,K,Cameron Dicker,Scott Pianowski_error,1.0
+1058,11,K,Chris Boswell,Scott Pianowski_error,2.0
+1059,11,K,Justin Tucker,Scott Pianowski_error,13.0
+1060,11,K,Jake Moody,Scott Pianowski_error,15.0
+1061,11,K,Tyler Bass,Scott Pianowski_error,12.0
+1062,11,K,Younghoe Koo,Scott Pianowski_error,2.0
+1063,11,K,Jason Sanders,Scott Pianowski_error,4.0
+1064,11,K,Jake Elliott,Scott Pianowski_error,3.0
+1065,11,K,Brandon McManus,Scott Pianowski_error,18.0
+1066,11,K,Wil Lutz,Scott Pianowski_error,2.0
+1067,11,K,Joshua Karty,Scott Pianowski_error,
+1068,11,K,Brandon Aubrey,Scott Pianowski_error,
+1069,11,K,Evan McPherson,Scott Pianowski_error,
+1070,11,K,Zane Gonzalez,Scott Pianowski_error,
+1071,11,K,Blake Grupe,Scott Pianowski_error,
+1072,11,K,Dustin Hopkins,Scott Pianowski_error,
+1073,11,K,Matt Gay,Scott Pianowski_error,
+1074,11,K,Jason Myers,Scott Pianowski_error,
+1075,11,K,Spencer Shrader,Scott Pianowski_error,
+1076,11,K,Cairo Santos,Scott Pianowski_error,
+1077,11,K,Daniel Carlson,Scott Pianowski_error,
+1078,11,K,Joey Slye,Scott Pianowski_error,
+1079,11,K,Cam Little,Scott Pianowski_error,
+1080,11,K,Anders Carlson,Scott Pianowski_error,
+1081,11,K,Nick Folk,Scott Pianowski_error,
+1082,12,K,Jake Bates,Scott Pianowski_error,13.0
+1083,12,K,Ka'imi Fairbairn,Scott Pianowski_error,10.0
+1084,12,K,Cameron Dicker,Scott Pianowski_error,0.0
+1085,12,K,Jason Sanders,Scott Pianowski_error,4.0
+1086,12,K,Wil Lutz,Scott Pianowski_error,6.0
+1087,12,K,Justin Tucker,Scott Pianowski_error,7.0
+1088,12,K,Chris Boswell,Scott Pianowski_error,11.0
+1089,12,K,Chase McLaughlin,Scott Pianowski_error,9.0
+1090,12,K,Jake Moody,Scott Pianowski_error,16.0
+1091,12,K,Brandon Aubrey,Scott Pianowski_error,1.0
+1092,12,K,Spencer Shrader,Scott Pianowski_error,6.0
+1093,12,K,Jake Elliott,Scott Pianowski_error,7.0
+1094,12,K,Chad Ryland,Scott Pianowski_error,
+1095,12,K,Austin Seibert,Scott Pianowski_error,
+1096,12,K,Brandon McManus,Scott Pianowski_error,
+1097,12,K,Matt Gay,Scott Pianowski_error,
+1098,12,K,Joshua Karty,Scott Pianowski_error,
+1099,12,K,Jason Myers,Scott Pianowski_error,
+1100,12,K,Joey Slye,Scott Pianowski_error,
+1101,12,K,Daniel Carlson,Scott Pianowski_error,
+1102,12,K,Dustin Hopkins,Scott Pianowski_error,
+1103,12,K,Cairo Santos,Scott Pianowski_error,
+1104,12,K,Graham Gano,Scott Pianowski_error,
+1105,12,K,Nick Folk,Scott Pianowski_error,
+1106,12,K,Eddy Pineiro,Scott Pianowski_error,
+1107,13,K,Cameron Dicker,Scott Pianowski_error,7.0
+1108,13,K,Jake Bates,Scott Pianowski_error,6.0
+1109,13,K,Ka'imi Fairbairn,Scott Pianowski_error,3.0
+1110,13,K,Chris Boswell,Scott Pianowski_error,2.0
+1111,13,K,Chase McLaughlin,Scott Pianowski_error,4.0
+1112,13,K,Brandon Aubrey,Scott Pianowski_error,8.0
+1113,13,K,Wil Lutz,Scott Pianowski_error,7.0
+1114,13,K,Justin Tucker,Scott Pianowski_error,9.0
+1115,13,K,Jake Elliott,Scott Pianowski_error,13.0
+1116,13,K,Tyler Bass,Scott Pianowski_error,
+1117,13,K,Brandon McManus,Scott Pianowski_error,
+1118,13,K,Jason Sanders,Scott Pianowski_error,17.0
+1119,13,K,Chad Ryland,Scott Pianowski_error,10.0
+1120,13,K,Younghoe Koo,Scott Pianowski_error,
+1121,13,K,Joshua Karty,Scott Pianowski_error,
+1122,13,K,Evan McPherson,Scott Pianowski_error,
+1123,13,K,Jason Myers,Scott Pianowski_error,
+1124,13,K,Matt Gay,Scott Pianowski_error,
+1125,13,K,Zane Gonzalez,Scott Pianowski_error,
+1126,13,K,Jake Moody,Scott Pianowski_error,
+1127,13,K,Blake Grupe,Scott Pianowski_error,
+1128,13,K,Matthew Wright,Scott Pianowski_error,
+1129,13,K,Joey Slye,Scott Pianowski_error,
+1130,13,K,Nick Folk,Scott Pianowski_error,
+1131,13,K,Cairo Santos,Scott Pianowski_error,
+1132,13,K,Dustin Hopkins,Scott Pianowski_error,
+1133,13,K,Eddy Pineiro,Scott Pianowski_error,
+1134,13,K,Daniel Carlson,Scott Pianowski_error,
+1135,13,K,Cam Little,Scott Pianowski_error,
+1136,13,K,Graham Gano,Scott Pianowski_error,
+1137,1,K,Evan McPherson,Dalton Del Don_error,23.0
+1138,1,K,Harrison Butker,Dalton Del Don_error,12.0
+1139,1,K,Justin Tucker,Dalton Del Don_error,15.0
+1140,1,K,Ka'imi Fairbairn,Dalton Del Don_error,3.0
+1141,1,K,Jake Elliott,Dalton Del Don_error,3.0
+1142,1,K,Tyler Bass,Dalton Del Don_error,
+1143,1,K,Brandon Aubrey,Dalton Del Don_error,7.0
+1144,1,K,Jason Sanders,Dalton Del Don_error,2.0
+1145,1,K,Younghoe Koo,Dalton Del Don_error,20.0
+1146,1,K,Jake Moody,Dalton Del Don_error,4.0
+1147,1,K,Cairo Santos,Dalton Del Don_error,1.0
+1148,1,K,Jason Myers,Dalton Del Don_error,
+1149,1,K,Jake Bates,Dalton Del Don_error,8.0
+1150,1,K,Cameron Dicker,Dalton Del Don_error,4.0
+1151,1,K,Blake Grupe,Dalton Del Don_error,
+1152,1,K,Dustin Hopkins,Dalton Del Don_error,
+1153,1,K,Chase McLaughlin,Dalton Del Don_error,
+1154,1,K,Daniel Carlson,Dalton Del Don_error,
+1155,1,K,Chris Boswell,Dalton Del Don_error,
+1156,1,K,Greg Zuerlein,Dalton Del Don_error,
+1157,1,K,Joshua Karty,Dalton Del Don_error,
+1158,1,K,Matt Prater,Dalton Del Don_error,
+1159,1,K,Graham Gano,Dalton Del Don_error,
+1160,1,K,Will Reichard,Dalton Del Don_error,
+1161,1,K,Eddy Pineiro,Dalton Del Don_error,
+1162,1,K,Cam Little,Dalton Del Don_error,
+1163,1,K,Wil Lutz,Dalton Del Don_error,
+1164,1,K,Joey Slye,Dalton Del Don_error,
+1165,1,K,Brayden Narveson,Dalton Del Don_error,
+1166,1,K,Nick Folk,Dalton Del Don_error,
+1167,1,K,Spencer Shrader,Dalton Del Don_error,
+1168,1,K,Cade York,Dalton Del Don_error,
+1169,2,K,Justin Tucker,Dalton Del Don_error,5.0
+1170,2,K,Harrison Butker,Dalton Del Don_error,10.0
+1171,2,K,Brandon Aubrey,Dalton Del Don_error,3.0
+1172,2,K,Ka'imi Fairbairn,Dalton Del Don_error,3.0
+1173,2,K,Jake Elliott,Dalton Del Don_error,16.0
+1174,2,K,Tyler Bass,Dalton Del Don_error,10.0
+1175,2,K,Jake Moody,Dalton Del Don_error,23.0
+1176,2,K,Jason Sanders,Dalton Del Don_error,18.0
+1177,2,K,Evan McPherson,Dalton Del Don_error,
+1178,2,K,Chris Boswell,Dalton Del Don_error,10.0
+1179,2,K,Younghoe Koo,Dalton Del Don_error,1.0
+1180,2,K,Cameron Dicker,Dalton Del Don_error,
+1181,2,K,Cairo Santos,Dalton Del Don_error,
+1182,2,K,Jake Bates,Dalton Del Don_error,6.0
+1183,2,K,Jason Myers,Dalton Del Don_error,
+1184,2,K,Blake Grupe,Dalton Del Don_error,
+1185,2,K,Chase McLaughlin,Dalton Del Don_error,
+1186,2,K,Joshua Karty,Dalton Del Don_error,17.0
+1187,2,K,Greg Zuerlein,Dalton Del Don_error,
+1188,2,K,Dustin Hopkins,Dalton Del Don_error,
+1189,2,K,Matt Prater,Dalton Del Don_error,
+1190,2,K,Daniel Carlson,Dalton Del Don_error,
+1191,2,K,Cam Little,Dalton Del Don_error,
+1192,2,K,Will Reichard,Dalton Del Don_error,
+1193,2,K,Wil Lutz,Dalton Del Don_error,
+1194,2,K,Nick Folk,Dalton Del Don_error,
+1195,2,K,Eddy Pineiro,Dalton Del Don_error,
+1196,2,K,Brayden Narveson,Dalton Del Don_error,
+1197,3,K,Harrison Butker,Dalton Del Don_error,1.0
+1198,3,K,Jake Moody,Dalton Del Don_error,13.0
+1199,3,K,Brandon Aubrey,Dalton Del Don_error,6.0
+1200,3,K,Ka'imi Fairbairn,Dalton Del Don_error,23.0
+1201,3,K,Justin Tucker,Dalton Del Don_error,13.0
+1202,3,K,Evan McPherson,Dalton Del Don_error,4.0
+1203,3,K,Jake Elliott,Dalton Del Don_error,19.0
+1204,3,K,Blake Grupe,Dalton Del Don_error,7.0
+1205,3,K,Daniel Carlson,Dalton Del Don_error,21.0
+1206,3,K,Cameron Dicker,Dalton Del Don_error,
+1207,3,K,Tyler Bass,Dalton Del Don_error,
+1208,3,K,Younghoe Koo,Dalton Del Don_error,
+1209,3,K,Chase McLaughlin,Dalton Del Don_error,20.0
+1210,3,K,Jake Bates,Dalton Del Don_error,14.0
+1211,3,K,Cairo Santos,Dalton Del Don_error,4.0
+1212,3,K,Jason Myers,Dalton Del Don_error,
+1213,3,K,Dustin Hopkins,Dalton Del Don_error,
+1214,3,K,Chris Boswell,Dalton Del Don_error,
+1215,3,K,Matt Prater,Dalton Del Don_error,
+1216,3,K,Greg Zuerlein,Dalton Del Don_error,
+1217,3,K,Jason Sanders,Dalton Del Don_error,
+1218,3,K,Will Reichard,Dalton Del Don_error,
+1219,3,K,Brayden Narveson,Dalton Del Don_error,
+1220,3,K,Cam Little,Dalton Del Don_error,
+1221,3,K,Joshua Karty,Dalton Del Don_error,
+1222,3,K,Wil Lutz,Dalton Del Don_error,
+1223,3,K,Matt Gay,Dalton Del Don_error,
+1224,3,K,Austin Seibert,Dalton Del Don_error,
+1225,3,K,Eddy Pineiro,Dalton Del Don_error,
+1226,3,K,Joey Slye,Dalton Del Don_error,
+1227,3,K,Nick Folk,Dalton Del Don_error,
+1228,4,K,Brandon Aubrey,Dalton Del Don_error,6.0
+1229,4,K,Ka'imi Fairbairn,Dalton Del Don_error,19.0
+1230,4,K,Harrison Butker,Dalton Del Don_error,22.0
+1231,4,K,Jake Moody,Dalton Del Don_error,2.0
+1232,4,K,Evan McPherson,Dalton Del Don_error,0.0
+1233,4,K,Matt Prater,Dalton Del Don_error,25.0
+1234,4,K,Justin Tucker,Dalton Del Don_error,18.0
+1235,4,K,Younghoe Koo,Dalton Del Don_error,5.0
+1236,4,K,Blake Grupe,Dalton Del Don_error,7.0
+1237,4,K,Chase McLaughlin,Dalton Del Don_error,4.0
+1238,4,K,Chris Boswell,Dalton Del Don_error,7.0
+1239,4,K,Jason Myers,Dalton Del Don_error,17.0
+1240,4,K,Tyler Bass,Dalton Del Don_error,
+1241,4,K,Jake Elliott,Dalton Del Don_error,
+1242,4,K,Jake Bates,Dalton Del Don_error,
+1243,4,K,Dustin Hopkins,Dalton Del Don_error,
+1244,4,K,Cairo Santos,Dalton Del Don_error,
+1245,4,K,Daniel Carlson,Dalton Del Don_error,
+1246,4,K,Will Reichard,Dalton Del Don_error,
+1247,4,K,Brayden Narveson,Dalton Del Don_error,
+1248,4,K,Cameron Dicker,Dalton Del Don_error,
+1249,4,K,Greg Zuerlein,Dalton Del Don_error,
+1250,4,K,Wil Lutz,Dalton Del Don_error,
+1251,4,K,Austin Seibert,Dalton Del Don_error,
+1252,4,K,Jason Sanders,Dalton Del Don_error,
+1253,4,K,Cam Little,Dalton Del Don_error,
+1254,4,K,Greg Joseph,Dalton Del Don_error,
+1255,4,K,Eddy Pineiro,Dalton Del Don_error,
+1256,4,K,Joshua Karty,Dalton Del Don_error,
+1257,4,K,Nick Folk,Dalton Del Don_error,
+1258,4,K,Joey Slye,Dalton Del Don_error,
+1259,4,K,Matt Gay,Dalton Del Don_error,
+1260,5,K,Brandon Aubrey,Dalton Del Don_error,10.0
+1261,5,K,Harrison Butker,Dalton Del Don_error,2.0
+1262,5,K,Ka'imi Fairbairn,Dalton Del Don_error,5.0
+1263,5,K,Younghoe Koo,Dalton Del Don_error,5.0
+1264,5,K,Justin Tucker,Dalton Del Don_error,2.0
+1265,5,K,Jake Moody,Dalton Del Don_error,16.0
+1266,5,K,Chase McLaughlin,Dalton Del Don_error,7.0
+1267,5,K,Evan McPherson,Dalton Del Don_error,16.0
+1268,5,K,Tyler Bass,Dalton Del Don_error,6.0
+1269,5,K,Jason Myers,Dalton Del Don_error,8.0
+1270,5,K,Cairo Santos,Dalton Del Don_error,8.0
+1271,5,K,Chris Boswell,Dalton Del Don_error,
+1272,5,K,Dustin Hopkins,Dalton Del Don_error,
+1273,5,K,Blake Grupe,Dalton Del Don_error,
+1274,5,K,Austin Seibert,Dalton Del Don_error,
+1275,5,K,Wil Lutz,Dalton Del Don_error,3.0
+1276,5,K,Will Reichard,Dalton Del Don_error,
+1277,5,K,Matt Gay,Dalton Del Don_error,
+1278,5,K,Greg Zuerlein,Dalton Del Don_error,
+1279,5,K,Cam Little,Dalton Del Don_error,
+1280,5,K,Brayden Narveson,Dalton Del Don_error,
+1281,5,K,Daniel Carlson,Dalton Del Don_error,
+1282,5,K,Eddy Pineiro,Dalton Del Don_error,
+1283,5,K,Joshua Karty,Dalton Del Don_error,
+1284,5,K,Joey Slye,Dalton Del Don_error,
+1285,5,K,Chad Ryland,Dalton Del Don_error,
+1286,5,K,Jason Sanders,Dalton Del Don_error,
+1287,5,K,Greg Joseph,Dalton Del Don_error,
+1288,6,K,Brandon Aubrey,Dalton Del Don_error,5.0
+1289,6,K,Younghoe Koo,Dalton Del Don_error,3.0
+1290,6,K,Ka'imi Fairbairn,Dalton Del Don_error,1.0
+1291,6,K,Justin Tucker,Dalton Del Don_error,0.0
+1292,6,K,Chase McLaughlin,Dalton Del Don_error,8.0
+1293,6,K,Evan McPherson,Dalton Del Don_error,13.0
+1294,6,K,Chris Boswell,Dalton Del Don_error,3.0
+1295,6,K,Austin Seibert,Dalton Del Don_error,9.0
+1296,6,K,Jake Elliott,Dalton Del Don_error,10.0
+1297,6,K,Jason Myers,Dalton Del Don_error,10.0
+1298,6,K,Tyler Bass,Dalton Del Don_error,
+1299,6,K,Cameron Dicker,Dalton Del Don_error,
+1300,6,K,Greg Joseph,Dalton Del Don_error,
+1301,6,K,Cairo Santos,Dalton Del Don_error,10.0
+1302,6,K,Jake Bates,Dalton Del Don_error,
+1303,6,K,Brayden Narveson,Dalton Del Don_error,
+1304,6,K,Blake Grupe,Dalton Del Don_error,
+1305,6,K,Matt Gay,Dalton Del Don_error,
+1306,6,K,Wil Lutz,Dalton Del Don_error,
+1307,6,K,Nick Folk,Dalton Del Don_error,
+1308,6,K,Cam Little,Dalton Del Don_error,
+1309,6,K,Eddy Pineiro,Dalton Del Don_error,
+1310,6,K,Chad Ryland,Dalton Del Don_error,
+1311,6,K,Matthew Wright,Dalton Del Don_error,6.0
+1312,6,K,Daniel Carlson,Dalton Del Don_error,
+1313,6,K,Greg Zuerlein,Dalton Del Don_error,
+1314,6,K,Dustin Hopkins,Dalton Del Don_error,
+1315,6,K,Joey Slye,Dalton Del Don_error,
+1316,7,K,Younghoe Koo,Dalton Del Don_error,23.0
+1317,7,K,Justin Tucker,Dalton Del Don_error,3.0
+1318,7,K,Ka'imi Fairbairn,Dalton Del Don_error,3.0
+1319,7,K,Austin Seibert,Dalton Del Don_error,2.0
+1320,7,K,Evan McPherson,Dalton Del Don_error,17.0
+1321,7,K,Will Reichard,Dalton Del Don_error,3.0
+1322,7,K,Chase McLaughlin,Dalton Del Don_error,10.0
+1323,7,K,Harrison Butker,Dalton Del Don_error,9.0
+1324,7,K,Jake Elliott,Dalton Del Don_error,
+1325,7,K,Cameron Dicker,Dalton Del Don_error,10.0
+1326,7,K,Jake Bates,Dalton Del Don_error,
+1327,7,K,Jason Myers,Dalton Del Don_error,1.0
+1328,7,K,Tyler Bass,Dalton Del Don_error,
+1329,7,K,Matt Gay,Dalton Del Don_error,
+1330,7,K,Blake Grupe,Dalton Del Don_error,
+1331,7,K,Chris Boswell,Dalton Del Don_error,
+1332,7,K,Wil Lutz,Dalton Del Don_error,
+1333,7,K,Joshua Karty,Dalton Del Don_error,24.0
+1334,7,K,Jason Sanders,Dalton Del Don_error,
+1335,7,K,Greg Joseph,Dalton Del Don_error,
+1336,7,K,Dustin Hopkins,Dalton Del Don_error,
+1337,7,K,Cam Little,Dalton Del Don_error,
+1338,7,K,Brandon McManus,Dalton Del Don_error,
+1339,7,K,Anders Carlson,Dalton Del Don_error,0.0
+1340,7,K,Eddy Pineiro,Dalton Del Don_error,
+1341,7,K,Greg Zuerlein,Dalton Del Don_error,
+1342,7,K,Nick Folk,Dalton Del Don_error,
+1343,7,K,Daniel Carlson,Dalton Del Don_error,
+1344,7,K,Joey Slye,Dalton Del Don_error,
+1345,7,K,Chad Ryland,Dalton Del Don_error,
+1346,8,K,Will Reichard,Dalton Del Don_error,16.0
+1347,8,K,Justin Tucker,Dalton Del Don_error,17.0
+1348,8,K,Ka'imi Fairbairn,Dalton Del Don_error,7.0
+1349,8,K,Brandon Aubrey,Dalton Del Don_error,16.0
+1350,8,K,Younghoe Koo,Dalton Del Don_error,12.0
+1351,8,K,Harrison Butker,Dalton Del Don_error,7.0
+1352,8,K,Austin Seibert,Dalton Del Don_error,
+1353,8,K,Evan McPherson,Dalton Del Don_error,13.0
+1354,8,K,Chase McLaughlin,Dalton Del Don_error,7.0
+1355,8,K,Wil Lutz,Dalton Del Don_error,21.0
+1356,8,K,Cameron Dicker,Dalton Del Don_error,6.0
+1357,8,K,Jake Bates,Dalton Del Don_error,0.0
+1358,8,K,Chris Boswell,Dalton Del Don_error,
+1359,8,K,Brandon McManus,Dalton Del Don_error,6.0
+1360,8,K,Jason Myers,Dalton Del Don_error,
+1361,8,K,Jake Elliott,Dalton Del Don_error,
+1362,8,K,Tyler Bass,Dalton Del Don_error,
+1363,8,K,Cairo Santos,Dalton Del Don_error,
+1364,8,K,Joshua Karty,Dalton Del Don_error,
+1365,8,K,Matt Gay,Dalton Del Don_error,
+1366,8,K,Jason Sanders,Dalton Del Don_error,
+1367,8,K,Anders Carlson,Dalton Del Don_error,
+1368,8,K,Chad Ryland,Dalton Del Don_error,
+1369,8,K,Cam Little,Dalton Del Don_error,
+1370,8,K,Daniel Carlson,Dalton Del Don_error,
+1371,8,K,Blake Grupe,Dalton Del Don_error,
+1372,8,K,Dustin Hopkins,Dalton Del Don_error,
+1373,8,K,Joey Slye,Dalton Del Don_error,
+1374,8,K,Greg Zuerlein,Dalton Del Don_error,
+1375,8,K,Nick Folk,Dalton Del Don_error,
+1376,8,K,Eddy Pineiro,Dalton Del Don_error,
+1377,8,K,Greg Joseph,Dalton Del Don_error,
+1378,9,K,Brandon Aubrey,Dalton Del Don_error,7.0
+1379,9,K,Will Reichard,Dalton Del Don_error,22.0
+1380,9,K,Younghoe Koo,Dalton Del Don_error,23.0
+1381,9,K,Austin Seibert,Dalton Del Don_error,4.0
+1382,9,K,Justin Tucker,Dalton Del Don_error,0.0
+1383,9,K,Harrison Butker,Dalton Del Don_error,8.0
+1384,9,K,Ka'imi Fairbairn,Dalton Del Don_error,0.0
+1385,9,K,Cameron Dicker,Dalton Del Don_error,
+1386,9,K,Evan McPherson,Dalton Del Don_error,4.0
+1387,9,K,Brandon McManus,Dalton Del Don_error,
+1388,9,K,Jake Elliott,Dalton Del Don_error,10.0
+1389,9,K,Tyler Bass,Dalton Del Don_error,9.0
+1390,9,K,Jake Bates,Dalton Del Don_error,
+1391,9,K,Chase McLaughlin,Dalton Del Don_error,
+1392,9,K,Jason Myers,Dalton Del Don_error,17.0
+1393,9,K,Blake Grupe,Dalton Del Don_error,6.0
+1394,9,K,Wil Lutz,Dalton Del Don_error,
+1395,9,K,Cairo Santos,Dalton Del Don_error,
+1396,9,K,Chad Ryland,Dalton Del Don_error,
+1397,9,K,Jason Sanders,Dalton Del Don_error,
+1398,9,K,Matt Gay,Dalton Del Don_error,
+1399,9,K,Joshua Karty,Dalton Del Don_error,
+1400,9,K,Dustin Hopkins,Dalton Del Don_error,
+1401,9,K,Cam Little,Dalton Del Don_error,
+1402,9,K,Daniel Carlson,Dalton Del Don_error,
+1403,9,K,Joey Slye,Dalton Del Don_error,
+1404,9,K,Riley Patterson,Dalton Del Don_error,
+1405,9,K,Eddy Pineiro,Dalton Del Don_error,
+1406,9,K,Nick Folk,Dalton Del Don_error,
+1407,9,K,Jude McAtamney,Dalton Del Don_error,
+1408,10,K,Younghoe Koo,Dalton Del Don_error,19.0
+1409,10,K,Justin Tucker,Dalton Del Don_error,24.0
+1410,10,K,Cameron Dicker,Dalton Del Don_error,9.0
+1411,10,K,Tyler Bass,Dalton Del Don_error,3.0
+1412,10,K,Chris Boswell,Dalton Del Don_error,14.0
+1413,10,K,Harrison Butker,Dalton Del Don_error,7.0
+1414,10,K,Ka'imi Fairbairn,Dalton Del Don_error,5.0
+1415,10,K,Brandon Aubrey,Dalton Del Don_error,
+1416,10,K,Jake Elliott,Dalton Del Don_error,3.0
+1417,10,K,Jake Bates,Dalton Del Don_error,4.0
+1418,10,K,Jason Sanders,Dalton Del Don_error,
+1419,10,K,Evan McPherson,Dalton Del Don_error,
+1420,10,K,Jake Moody,Dalton Del Don_error,2.0
+1421,10,K,Joshua Karty,Dalton Del Don_error,9.0
+1422,10,K,Matt Gay,Dalton Del Don_error,
+1423,10,K,Blake Grupe,Dalton Del Don_error,
+1424,10,K,Chad Ryland,Dalton Del Don_error,
+1425,10,K,Chase McLaughlin,Dalton Del Don_error,
+1426,10,K,Wil Lutz,Dalton Del Don_error,
+1427,10,K,Zane Gonzalez,Dalton Del Don_error,3.0
+1428,10,K,Cairo Santos,Dalton Del Don_error,
+1429,10,K,Cam Little,Dalton Del Don_error,
+1430,10,K,Joey Slye,Dalton Del Don_error,
+1431,10,K,Nick Folk,Dalton Del Don_error,
+1432,10,K,Spencer Shrader,Dalton Del Don_error,
+1433,10,K,Eddy Pineiro,Dalton Del Don_error,
+1434,11,K,Ka'imi Fairbairn,Dalton Del Don_error,7.0
+1435,11,K,Jake Bates,Dalton Del Don_error,2.0
+1436,11,K,Cameron Dicker,Dalton Del Don_error,1.0
+1437,11,K,Chris Boswell,Dalton Del Don_error,6.0
+1438,11,K,Justin Tucker,Dalton Del Don_error,12.0
+1439,11,K,Jake Moody,Dalton Del Don_error,19.0
+1440,11,K,Tyler Bass,Dalton Del Don_error,9.0
+1441,11,K,Younghoe Koo,Dalton Del Don_error,1.0
+1442,11,K,Jason Sanders,Dalton Del Don_error,1.0
+1443,11,K,Jake Elliott,Dalton Del Don_error,4.0
+1444,11,K,Brandon McManus,Dalton Del Don_error,15.0
+1445,11,K,Wil Lutz,Dalton Del Don_error,2.0
+1446,11,K,Joshua Karty,Dalton Del Don_error,
+1447,11,K,Brandon Aubrey,Dalton Del Don_error,
+1448,11,K,Evan McPherson,Dalton Del Don_error,
+1449,11,K,Zane Gonzalez,Dalton Del Don_error,
+1450,11,K,Blake Grupe,Dalton Del Don_error,
+1451,11,K,Dustin Hopkins,Dalton Del Don_error,
+1452,11,K,Matt Gay,Dalton Del Don_error,
+1453,11,K,Jason Myers,Dalton Del Don_error,
+1454,11,K,Spencer Shrader,Dalton Del Don_error,
+1455,11,K,Cairo Santos,Dalton Del Don_error,
+1456,11,K,Daniel Carlson,Dalton Del Don_error,
+1457,11,K,Joey Slye,Dalton Del Don_error,
+1458,11,K,Cam Little,Dalton Del Don_error,
+1459,11,K,Anders Carlson,Dalton Del Don_error,
+1460,11,K,Nick Folk,Dalton Del Don_error,
+1461,12,K,Jake Bates,Dalton Del Don_error,14.0
+1462,12,K,Ka'imi Fairbairn,Dalton Del Don_error,9.0
+1463,12,K,Cameron Dicker,Dalton Del Don_error,1.0
+1464,12,K,Jason Sanders,Dalton Del Don_error,4.0
+1465,12,K,Wil Lutz,Dalton Del Don_error,5.0
+1466,12,K,Justin Tucker,Dalton Del Don_error,10.0
+1467,12,K,Chris Boswell,Dalton Del Don_error,5.0
+1468,12,K,Chase McLaughlin,Dalton Del Don_error,10.0
+1469,12,K,Jake Moody,Dalton Del Don_error,10.0
+1470,12,K,Brandon Aubrey,Dalton Del Don_error,
+1471,12,K,Spencer Shrader,Dalton Del Don_error,2.0
+1472,12,K,Jake Elliott,Dalton Del Don_error,4.0
+1473,12,K,Chad Ryland,Dalton Del Don_error,
+1474,12,K,Austin Seibert,Dalton Del Don_error,2.0
+1475,12,K,Brandon McManus,Dalton Del Don_error,
+1476,12,K,Matt Gay,Dalton Del Don_error,
+1477,12,K,Joshua Karty,Dalton Del Don_error,
+1478,12,K,Jason Myers,Dalton Del Don_error,
+1479,12,K,Joey Slye,Dalton Del Don_error,
+1480,12,K,Daniel Carlson,Dalton Del Don_error,
+1481,12,K,Dustin Hopkins,Dalton Del Don_error,
+1482,12,K,Cairo Santos,Dalton Del Don_error,
+1483,12,K,Graham Gano,Dalton Del Don_error,
+1484,12,K,Nick Folk,Dalton Del Don_error,
+1485,12,K,Eddy Pineiro,Dalton Del Don_error,
+1486,13,K,Cameron Dicker,Dalton Del Don_error,7.0
+1487,13,K,Jake Bates,Dalton Del Don_error,6.0
+1488,13,K,Ka'imi Fairbairn,Dalton Del Don_error,3.0
+1489,13,K,Chris Boswell,Dalton Del Don_error,3.0
+1490,13,K,Chase McLaughlin,Dalton Del Don_error,4.0
+1491,13,K,Brandon Aubrey,Dalton Del Don_error,12.0
+1492,13,K,Wil Lutz,Dalton Del Don_error,3.0
+1493,13,K,Justin Tucker,Dalton Del Don_error,8.0
+1494,13,K,Jake Elliott,Dalton Del Don_error,
+1495,13,K,Tyler Bass,Dalton Del Don_error,
+1496,13,K,Brandon McManus,Dalton Del Don_error,6.0
+1497,13,K,Jason Sanders,Dalton Del Don_error,
+1498,13,K,Chad Ryland,Dalton Del Don_error,
+1499,13,K,Younghoe Koo,Dalton Del Don_error,
+1500,13,K,Joshua Karty,Dalton Del Don_error,18.0
+1501,13,K,Evan McPherson,Dalton Del Don_error,
+1502,13,K,Jason Myers,Dalton Del Don_error,
+1503,13,K,Matt Gay,Dalton Del Don_error,
+1504,13,K,Zane Gonzalez,Dalton Del Don_error,
+1505,13,K,Jake Moody,Dalton Del Don_error,
+1506,13,K,Blake Grupe,Dalton Del Don_error,
+1507,13,K,Matthew Wright,Dalton Del Don_error,3.0
+1508,13,K,Joey Slye,Dalton Del Don_error,
+1509,13,K,Nick Folk,Dalton Del Don_error,
+1510,13,K,Cairo Santos,Dalton Del Don_error,
+1511,13,K,Dustin Hopkins,Dalton Del Don_error,
+1512,13,K,Eddy Pineiro,Dalton Del Don_error,
+1513,13,K,Daniel Carlson,Dalton Del Don_error,
+1514,13,K,Cam Little,Dalton Del Don_error,
+1515,13,K,Graham Gano,Dalton Del Don_error,
+1516,1,K,Evan McPherson,Matt Harmon_error,21.0
+1517,1,K,Harrison Butker,Matt Harmon_error,14.0
+1518,1,K,Justin Tucker,Matt Harmon_error,17.0
+1519,1,K,Ka'imi Fairbairn,Matt Harmon_error,0.0
+1520,1,K,Jake Elliott,Matt Harmon_error,7.0
+1521,1,K,Tyler Bass,Matt Harmon_error,5.0
+1522,1,K,Brandon Aubrey,Matt Harmon_error,4.0
+1523,1,K,Jason Sanders,Matt Harmon_error,4.0
+1524,1,K,Younghoe Koo,Matt Harmon_error,18.0
+1525,1,K,Jake Moody,Matt Harmon_error,9.0
+1526,1,K,Cairo Santos,Matt Harmon_error,4.0
+1527,1,K,Jason Myers,Matt Harmon_error,1.0
+1528,1,K,Jake Bates,Matt Harmon_error,
+1529,1,K,Cameron Dicker,Matt Harmon_error,
+1530,1,K,Blake Grupe,Matt Harmon_error,
+1531,1,K,Dustin Hopkins,Matt Harmon_error,
+1532,1,K,Chase McLaughlin,Matt Harmon_error,
+1533,1,K,Daniel Carlson,Matt Harmon_error,
+1534,1,K,Chris Boswell,Matt Harmon_error,
+1535,1,K,Greg Zuerlein,Matt Harmon_error,
+1536,1,K,Joshua Karty,Matt Harmon_error,
+1537,1,K,Matt Prater,Matt Harmon_error,
+1538,1,K,Graham Gano,Matt Harmon_error,
+1539,1,K,Will Reichard,Matt Harmon_error,
+1540,1,K,Eddy Pineiro,Matt Harmon_error,
+1541,1,K,Cam Little,Matt Harmon_error,
+1542,1,K,Wil Lutz,Matt Harmon_error,
+1543,1,K,Joey Slye,Matt Harmon_error,
+1544,1,K,Brayden Narveson,Matt Harmon_error,
+1545,1,K,Nick Folk,Matt Harmon_error,
+1546,1,K,Spencer Shrader,Matt Harmon_error,
+1547,1,K,Cade York,Matt Harmon_error,
+1548,2,K,Justin Tucker,Matt Harmon_error,5.0
+1549,2,K,Harrison Butker,Matt Harmon_error,12.0
+1550,2,K,Brandon Aubrey,Matt Harmon_error,1.0
+1551,2,K,Ka'imi Fairbairn,Matt Harmon_error,1.0
+1552,2,K,Jake Elliott,Matt Harmon_error,18.0
+1553,2,K,Tyler Bass,Matt Harmon_error,13.0
+1554,2,K,Jake Moody,Matt Harmon_error,19.0
+1555,2,K,Jason Sanders,Matt Harmon_error,21.0
+1556,2,K,Evan McPherson,Matt Harmon_error,4.0
+1557,2,K,Chris Boswell,Matt Harmon_error,6.0
+1558,2,K,Younghoe Koo,Matt Harmon_error,3.0
+1559,2,K,Cameron Dicker,Matt Harmon_error,
+1560,2,K,Cairo Santos,Matt Harmon_error,0.0
+1561,2,K,Jake Bates,Matt Harmon_error,
+1562,2,K,Jason Myers,Matt Harmon_error,
+1563,2,K,Blake Grupe,Matt Harmon_error,
+1564,2,K,Chase McLaughlin,Matt Harmon_error,
+1565,2,K,Joshua Karty,Matt Harmon_error,
+1566,2,K,Greg Zuerlein,Matt Harmon_error,
+1567,2,K,Dustin Hopkins,Matt Harmon_error,
+1568,2,K,Matt Prater,Matt Harmon_error,
+1569,2,K,Daniel Carlson,Matt Harmon_error,
+1570,2,K,Cam Little,Matt Harmon_error,
+1571,2,K,Will Reichard,Matt Harmon_error,
+1572,2,K,Wil Lutz,Matt Harmon_error,
+1573,2,K,Nick Folk,Matt Harmon_error,
+1574,2,K,Eddy Pineiro,Matt Harmon_error,
+1575,2,K,Brayden Narveson,Matt Harmon_error,
+1576,3,K,Harrison Butker,Matt Harmon_error,0.0
+1577,3,K,Jake Moody,Matt Harmon_error,14.0
+1578,3,K,Brandon Aubrey,Matt Harmon_error,3.0
+1579,3,K,Ka'imi Fairbairn,Matt Harmon_error,26.0
+1580,3,K,Justin Tucker,Matt Harmon_error,15.0
+1581,3,K,Evan McPherson,Matt Harmon_error,2.0
+1582,3,K,Jake Elliott,Matt Harmon_error,22.0
+1583,3,K,Blake Grupe,Matt Harmon_error,5.0
+1584,3,K,Daniel Carlson,Matt Harmon_error,14.0
+1585,3,K,Cameron Dicker,Matt Harmon_error,12.0
+1586,3,K,Tyler Bass,Matt Harmon_error,4.0
+1587,3,K,Younghoe Koo,Matt Harmon_error,3.0
+1588,3,K,Chase McLaughlin,Matt Harmon_error,
+1589,3,K,Jake Bates,Matt Harmon_error,
+1590,3,K,Cairo Santos,Matt Harmon_error,
+1591,3,K,Jason Myers,Matt Harmon_error,
+1592,3,K,Dustin Hopkins,Matt Harmon_error,
+1593,3,K,Chris Boswell,Matt Harmon_error,
+1594,3,K,Matt Prater,Matt Harmon_error,
+1595,3,K,Greg Zuerlein,Matt Harmon_error,
+1596,3,K,Jason Sanders,Matt Harmon_error,
+1597,3,K,Will Reichard,Matt Harmon_error,
+1598,3,K,Brayden Narveson,Matt Harmon_error,
+1599,3,K,Cam Little,Matt Harmon_error,
+1600,3,K,Joshua Karty,Matt Harmon_error,
+1601,3,K,Wil Lutz,Matt Harmon_error,
+1602,3,K,Matt Gay,Matt Harmon_error,
+1603,3,K,Austin Seibert,Matt Harmon_error,
+1604,3,K,Eddy Pineiro,Matt Harmon_error,
+1605,3,K,Joey Slye,Matt Harmon_error,
+1606,3,K,Nick Folk,Matt Harmon_error,
+1607,4,K,Brandon Aubrey,Matt Harmon_error,6.0
+1608,4,K,Ka'imi Fairbairn,Matt Harmon_error,18.0
+1609,4,K,Harrison Butker,Matt Harmon_error,24.0
+1610,4,K,Jake Moody,Matt Harmon_error,0.0
+1611,4,K,Evan McPherson,Matt Harmon_error,1.0
+1612,4,K,Matt Prater,Matt Harmon_error,24.0
+1613,4,K,Justin Tucker,Matt Harmon_error,20.0
+1614,4,K,Younghoe Koo,Matt Harmon_error,6.0
+1615,4,K,Blake Grupe,Matt Harmon_error,8.0
+1616,4,K,Chase McLaughlin,Matt Harmon_error,3.0
+1617,4,K,Chris Boswell,Matt Harmon_error,5.0
+1618,4,K,Jason Myers,Matt Harmon_error,17.0
+1619,4,K,Tyler Bass,Matt Harmon_error,
+1620,4,K,Jake Elliott,Matt Harmon_error,
+1621,4,K,Jake Bates,Matt Harmon_error,
+1622,4,K,Dustin Hopkins,Matt Harmon_error,
+1623,4,K,Cairo Santos,Matt Harmon_error,
+1624,4,K,Daniel Carlson,Matt Harmon_error,
+1625,4,K,Will Reichard,Matt Harmon_error,
+1626,4,K,Brayden Narveson,Matt Harmon_error,
+1627,4,K,Cameron Dicker,Matt Harmon_error,
+1628,4,K,Greg Zuerlein,Matt Harmon_error,
+1629,4,K,Wil Lutz,Matt Harmon_error,
+1630,4,K,Austin Seibert,Matt Harmon_error,
+1631,4,K,Jason Sanders,Matt Harmon_error,
+1632,4,K,Cam Little,Matt Harmon_error,
+1633,4,K,Greg Joseph,Matt Harmon_error,
+1634,4,K,Eddy Pineiro,Matt Harmon_error,
+1635,4,K,Joshua Karty,Matt Harmon_error,
+1636,4,K,Nick Folk,Matt Harmon_error,
+1637,4,K,Joey Slye,Matt Harmon_error,
+1638,4,K,Matt Gay,Matt Harmon_error,
+1639,5,K,Brandon Aubrey,Matt Harmon_error,11.0
+1640,5,K,Harrison Butker,Matt Harmon_error,3.0
+1641,5,K,Ka'imi Fairbairn,Matt Harmon_error,1.0
+1642,5,K,Younghoe Koo,Matt Harmon_error,3.0
+1643,5,K,Justin Tucker,Matt Harmon_error,2.0
+1644,5,K,Jake Moody,Matt Harmon_error,11.0
+1645,5,K,Chase McLaughlin,Matt Harmon_error,5.0
+1646,5,K,Evan McPherson,Matt Harmon_error,15.0
+1647,5,K,Tyler Bass,Matt Harmon_error,9.0
+1648,5,K,Jason Myers,Matt Harmon_error,2.0
+1649,5,K,Cairo Santos,Matt Harmon_error,8.0
+1650,5,K,Chris Boswell,Matt Harmon_error,
+1651,5,K,Dustin Hopkins,Matt Harmon_error,
+1652,5,K,Blake Grupe,Matt Harmon_error,
+1653,5,K,Austin Seibert,Matt Harmon_error,
+1654,5,K,Wil Lutz,Matt Harmon_error,
+1655,5,K,Will Reichard,Matt Harmon_error,
+1656,5,K,Matt Gay,Matt Harmon_error,
+1657,5,K,Greg Zuerlein,Matt Harmon_error,
+1658,5,K,Cam Little,Matt Harmon_error,
+1659,5,K,Brayden Narveson,Matt Harmon_error,
+1660,5,K,Daniel Carlson,Matt Harmon_error,
+1661,5,K,Eddy Pineiro,Matt Harmon_error,
+1662,5,K,Joshua Karty,Matt Harmon_error,
+1663,5,K,Joey Slye,Matt Harmon_error,
+1664,5,K,Chad Ryland,Matt Harmon_error,
+1665,5,K,Jason Sanders,Matt Harmon_error,
+1666,5,K,Greg Joseph,Matt Harmon_error,
+1667,6,K,Brandon Aubrey,Matt Harmon_error,5.0
+1668,6,K,Younghoe Koo,Matt Harmon_error,3.0
+1669,6,K,Ka'imi Fairbairn,Matt Harmon_error,1.0
+1670,6,K,Justin Tucker,Matt Harmon_error,2.0
+1671,6,K,Chase McLaughlin,Matt Harmon_error,10.0
+1672,6,K,Evan McPherson,Matt Harmon_error,15.0
+1673,6,K,Chris Boswell,Matt Harmon_error,5.0
+1674,6,K,Austin Seibert,Matt Harmon_error,5.0
+1675,6,K,Jake Elliott,Matt Harmon_error,0.0
+1676,6,K,Jason Myers,Matt Harmon_error,9.0
+1677,6,K,Tyler Bass,Matt Harmon_error,10.0
+1678,6,K,Cameron Dicker,Matt Harmon_error,3.0
+1679,6,K,Greg Joseph,Matt Harmon_error,
+1680,6,K,Cairo Santos,Matt Harmon_error,
+1681,6,K,Jake Bates,Matt Harmon_error,
+1682,6,K,Brayden Narveson,Matt Harmon_error,
+1683,6,K,Blake Grupe,Matt Harmon_error,
+1684,6,K,Matt Gay,Matt Harmon_error,
+1685,6,K,Wil Lutz,Matt Harmon_error,
+1686,6,K,Nick Folk,Matt Harmon_error,
+1687,6,K,Cam Little,Matt Harmon_error,
+1688,6,K,Eddy Pineiro,Matt Harmon_error,
+1689,6,K,Chad Ryland,Matt Harmon_error,
+1690,6,K,Matthew Wright,Matt Harmon_error,
+1691,6,K,Daniel Carlson,Matt Harmon_error,
+1692,6,K,Greg Zuerlein,Matt Harmon_error,
+1693,6,K,Dustin Hopkins,Matt Harmon_error,
+1694,6,K,Joey Slye,Matt Harmon_error,
+1695,7,K,Younghoe Koo,Matt Harmon_error,25.0
+1696,7,K,Justin Tucker,Matt Harmon_error,5.0
+1697,7,K,Ka'imi Fairbairn,Matt Harmon_error,5.0
+1698,7,K,Austin Seibert,Matt Harmon_error,5.0
+1699,7,K,Evan McPherson,Matt Harmon_error,20.0
+1700,7,K,Will Reichard,Matt Harmon_error,2.0
+1701,7,K,Chase McLaughlin,Matt Harmon_error,11.0
+1702,7,K,Harrison Butker,Matt Harmon_error,7.0
+1703,7,K,Jake Elliott,Matt Harmon_error,13.0
+1704,7,K,Cameron Dicker,Matt Harmon_error,10.0
+1705,7,K,Jake Bates,Matt Harmon_error,3.0
+1706,7,K,Jason Myers,Matt Harmon_error,
+1707,7,K,Tyler Bass,Matt Harmon_error,
+1708,7,K,Matt Gay,Matt Harmon_error,
+1709,7,K,Blake Grupe,Matt Harmon_error,9.0
+1710,7,K,Chris Boswell,Matt Harmon_error,
+1711,7,K,Wil Lutz,Matt Harmon_error,
+1712,7,K,Joshua Karty,Matt Harmon_error,
+1713,7,K,Jason Sanders,Matt Harmon_error,
+1714,7,K,Greg Joseph,Matt Harmon_error,
+1715,7,K,Dustin Hopkins,Matt Harmon_error,
+1716,7,K,Cam Little,Matt Harmon_error,
+1717,7,K,Brandon McManus,Matt Harmon_error,
+1718,7,K,Anders Carlson,Matt Harmon_error,
+1719,7,K,Eddy Pineiro,Matt Harmon_error,
+1720,7,K,Greg Zuerlein,Matt Harmon_error,
+1721,7,K,Nick Folk,Matt Harmon_error,
+1722,7,K,Daniel Carlson,Matt Harmon_error,
+1723,7,K,Joey Slye,Matt Harmon_error,
+1724,7,K,Chad Ryland,Matt Harmon_error,
+1725,8,K,Will Reichard,Matt Harmon_error,16.0
+1726,8,K,Justin Tucker,Matt Harmon_error,18.0
+1727,8,K,Ka'imi Fairbairn,Matt Harmon_error,6.0
+1728,8,K,Brandon Aubrey,Matt Harmon_error,17.0
+1729,8,K,Younghoe Koo,Matt Harmon_error,16.0
+1730,8,K,Harrison Butker,Matt Harmon_error,4.0
+1731,8,K,Austin Seibert,Matt Harmon_error,0.0
+1732,8,K,Evan McPherson,Matt Harmon_error,15.0
+1733,8,K,Chase McLaughlin,Matt Harmon_error,9.0
+1734,8,K,Wil Lutz,Matt Harmon_error,15.0
+1735,8,K,Cameron Dicker,Matt Harmon_error,5.0
+1736,8,K,Jake Bates,Matt Harmon_error,6.0
+1737,8,K,Chris Boswell,Matt Harmon_error,
+1738,8,K,Brandon McManus,Matt Harmon_error,
+1739,8,K,Jason Myers,Matt Harmon_error,
+1740,8,K,Jake Elliott,Matt Harmon_error,
+1741,8,K,Tyler Bass,Matt Harmon_error,
+1742,8,K,Cairo Santos,Matt Harmon_error,
+1743,8,K,Joshua Karty,Matt Harmon_error,
+1744,8,K,Matt Gay,Matt Harmon_error,
+1745,8,K,Jason Sanders,Matt Harmon_error,
+1746,8,K,Anders Carlson,Matt Harmon_error,
+1747,8,K,Chad Ryland,Matt Harmon_error,
+1748,8,K,Cam Little,Matt Harmon_error,
+1749,8,K,Daniel Carlson,Matt Harmon_error,
+1750,8,K,Blake Grupe,Matt Harmon_error,
+1751,8,K,Dustin Hopkins,Matt Harmon_error,
+1752,8,K,Joey Slye,Matt Harmon_error,
+1753,8,K,Greg Zuerlein,Matt Harmon_error,
+1754,8,K,Nick Folk,Matt Harmon_error,
+1755,8,K,Eddy Pineiro,Matt Harmon_error,
+1756,8,K,Greg Joseph,Matt Harmon_error,
+1757,9,K,Brandon Aubrey,Matt Harmon_error,7.0
+1758,9,K,Will Reichard,Matt Harmon_error,22.0
+1759,9,K,Younghoe Koo,Matt Harmon_error,23.0
+1760,9,K,Austin Seibert,Matt Harmon_error,3.0
+1761,9,K,Justin Tucker,Matt Harmon_error,1.0
+1762,9,K,Harrison Butker,Matt Harmon_error,8.0
+1763,9,K,Ka'imi Fairbairn,Matt Harmon_error,1.0
+1764,9,K,Cameron Dicker,Matt Harmon_error,17.0
+1765,9,K,Evan McPherson,Matt Harmon_error,7.0
+1766,9,K,Brandon McManus,Matt Harmon_error,9.0
+1767,9,K,Jake Elliott,Matt Harmon_error,9.0
+1768,9,K,Tyler Bass,Matt Harmon_error,
+1769,9,K,Jake Bates,Matt Harmon_error,7.0
+1770,9,K,Chase McLaughlin,Matt Harmon_error,
+1771,9,K,Jason Myers,Matt Harmon_error,
+1772,9,K,Blake Grupe,Matt Harmon_error,
+1773,9,K,Wil Lutz,Matt Harmon_error,
+1774,9,K,Cairo Santos,Matt Harmon_error,
+1775,9,K,Chad Ryland,Matt Harmon_error,
+1776,9,K,Jason Sanders,Matt Harmon_error,
+1777,9,K,Matt Gay,Matt Harmon_error,
+1778,9,K,Joshua Karty,Matt Harmon_error,
+1779,9,K,Dustin Hopkins,Matt Harmon_error,
+1780,9,K,Cam Little,Matt Harmon_error,
+1781,9,K,Daniel Carlson,Matt Harmon_error,
+1782,9,K,Joey Slye,Matt Harmon_error,
+1783,9,K,Riley Patterson,Matt Harmon_error,
+1784,9,K,Eddy Pineiro,Matt Harmon_error,
+1785,9,K,Nick Folk,Matt Harmon_error,
+1786,9,K,Jude McAtamney,Matt Harmon_error,
+1787,10,K,Younghoe Koo,Matt Harmon_error,19.0
+1788,10,K,Justin Tucker,Matt Harmon_error,22.0
+1789,10,K,Cameron Dicker,Matt Harmon_error,9.0
+1790,10,K,Tyler Bass,Matt Harmon_error,2.0
+1791,10,K,Chris Boswell,Matt Harmon_error,16.0
+1792,10,K,Harrison Butker,Matt Harmon_error,0.0
+1793,10,K,Ka'imi Fairbairn,Matt Harmon_error,3.0
+1794,10,K,Brandon Aubrey,Matt Harmon_error,9.0
+1795,10,K,Jake Elliott,Matt Harmon_error,1.0
+1796,10,K,Jake Bates,Matt Harmon_error,5.0
+1797,10,K,Jason Sanders,Matt Harmon_error,
+1798,10,K,Evan McPherson,Matt Harmon_error,
+1799,10,K,Jake Moody,Matt Harmon_error,
+1800,10,K,Joshua Karty,Matt Harmon_error,
+1801,10,K,Matt Gay,Matt Harmon_error,
+1802,10,K,Blake Grupe,Matt Harmon_error,
+1803,10,K,Chad Ryland,Matt Harmon_error,
+1804,10,K,Chase McLaughlin,Matt Harmon_error,
+1805,10,K,Wil Lutz,Matt Harmon_error,
+1806,10,K,Zane Gonzalez,Matt Harmon_error,
+1807,10,K,Cairo Santos,Matt Harmon_error,
+1808,10,K,Cam Little,Matt Harmon_error,
+1809,10,K,Joey Slye,Matt Harmon_error,
+1810,10,K,Nick Folk,Matt Harmon_error,
+1811,10,K,Spencer Shrader,Matt Harmon_error,
+1812,10,K,Eddy Pineiro,Matt Harmon_error,
+1813,11,K,Ka'imi Fairbairn,Matt Harmon_error,6.0
+1814,11,K,Jake Bates,Matt Harmon_error,2.0
+1815,11,K,Cameron Dicker,Matt Harmon_error,1.0
+1816,11,K,Chris Boswell,Matt Harmon_error,5.0
+1817,11,K,Justin Tucker,Matt Harmon_error,14.0
+1818,11,K,Jake Moody,Matt Harmon_error,17.0
+1819,11,K,Tyler Bass,Matt Harmon_error,11.0
+1820,11,K,Younghoe Koo,Matt Harmon_error,2.0
+1821,11,K,Jason Sanders,Matt Harmon_error,5.0
+1822,11,K,Jake Elliott,Matt Harmon_error,4.0
+1823,11,K,Brandon McManus,Matt Harmon_error,18.0
+1824,11,K,Wil Lutz,Matt Harmon_error,
+1825,11,K,Joshua Karty,Matt Harmon_error,
+1826,11,K,Brandon Aubrey,Matt Harmon_error,6.0
+1827,11,K,Evan McPherson,Matt Harmon_error,
+1828,11,K,Zane Gonzalez,Matt Harmon_error,
+1829,11,K,Blake Grupe,Matt Harmon_error,
+1830,11,K,Dustin Hopkins,Matt Harmon_error,
+1831,11,K,Matt Gay,Matt Harmon_error,
+1832,11,K,Jason Myers,Matt Harmon_error,
+1833,11,K,Spencer Shrader,Matt Harmon_error,
+1834,11,K,Cairo Santos,Matt Harmon_error,
+1835,11,K,Daniel Carlson,Matt Harmon_error,
+1836,11,K,Joey Slye,Matt Harmon_error,
+1837,11,K,Cam Little,Matt Harmon_error,
+1838,11,K,Anders Carlson,Matt Harmon_error,
+1839,11,K,Nick Folk,Matt Harmon_error,
+1840,12,K,Jake Bates,Matt Harmon_error,14.0
+1841,12,K,Ka'imi Fairbairn,Matt Harmon_error,8.0
+1842,12,K,Cameron Dicker,Matt Harmon_error,1.0
+1843,12,K,Jason Sanders,Matt Harmon_error,2.0
+1844,12,K,Wil Lutz,Matt Harmon_error,5.0
+1845,12,K,Justin Tucker,Matt Harmon_error,9.0
+1846,12,K,Chris Boswell,Matt Harmon_error,13.0
+1847,12,K,Chase McLaughlin,Matt Harmon_error,9.0
+1848,12,K,Jake Moody,Matt Harmon_error,17.0
+1849,12,K,Brandon Aubrey,Matt Harmon_error,2.0
+1850,12,K,Spencer Shrader,Matt Harmon_error,
+1851,12,K,Jake Elliott,Matt Harmon_error,
+1852,12,K,Chad Ryland,Matt Harmon_error,6.0
+1853,12,K,Austin Seibert,Matt Harmon_error,
+1854,12,K,Brandon McManus,Matt Harmon_error,
+1855,12,K,Matt Gay,Matt Harmon_error,
+1856,12,K,Joshua Karty,Matt Harmon_error,
+1857,12,K,Jason Myers,Matt Harmon_error,
+1858,12,K,Joey Slye,Matt Harmon_error,
+1859,12,K,Daniel Carlson,Matt Harmon_error,
+1860,12,K,Dustin Hopkins,Matt Harmon_error,
+1861,12,K,Cairo Santos,Matt Harmon_error,
+1862,12,K,Graham Gano,Matt Harmon_error,
+1863,12,K,Nick Folk,Matt Harmon_error,
+1864,12,K,Eddy Pineiro,Matt Harmon_error,
+1865,13,K,Cameron Dicker,Matt Harmon_error,7.0
+1866,13,K,Jake Bates,Matt Harmon_error,5.0
+1867,13,K,Ka'imi Fairbairn,Matt Harmon_error,4.0
+1868,13,K,Chris Boswell,Matt Harmon_error,2.0
+1869,13,K,Chase McLaughlin,Matt Harmon_error,3.0
+1870,13,K,Brandon Aubrey,Matt Harmon_error,9.0
+1871,13,K,Wil Lutz,Matt Harmon_error,4.0
+1872,13,K,Justin Tucker,Matt Harmon_error,10.0
+1873,13,K,Jake Elliott,Matt Harmon_error,13.0
+1874,13,K,Tyler Bass,Matt Harmon_error,15.0
+1875,13,K,Brandon McManus,Matt Harmon_error,
+1876,13,K,Jason Sanders,Matt Harmon_error,
+1877,13,K,Chad Ryland,Matt Harmon_error,
+1878,13,K,Younghoe Koo,Matt Harmon_error,
+1879,13,K,Joshua Karty,Matt Harmon_error,
+1880,13,K,Evan McPherson,Matt Harmon_error,
+1881,13,K,Jason Myers,Matt Harmon_error,
+1882,13,K,Matt Gay,Matt Harmon_error,
+1883,13,K,Zane Gonzalez,Matt Harmon_error,
+1884,13,K,Jake Moody,Matt Harmon_error,
+1885,13,K,Blake Grupe,Matt Harmon_error,
+1886,13,K,Matthew Wright,Matt Harmon_error,
+1887,13,K,Joey Slye,Matt Harmon_error,
+1888,13,K,Nick Folk,Matt Harmon_error,
+1889,13,K,Cairo Santos,Matt Harmon_error,
+1890,13,K,Dustin Hopkins,Matt Harmon_error,
+1891,13,K,Eddy Pineiro,Matt Harmon_error,
+1892,13,K,Daniel Carlson,Matt Harmon_error,
+1893,13,K,Cam Little,Matt Harmon_error,
+1894,13,K,Graham Gano,Matt Harmon_error,
+1895,1,K,Evan McPherson,Kate Magdziuk_error,23.0
+1896,1,K,Harrison Butker,Kate Magdziuk_error,14.0
+1897,1,K,Justin Tucker,Kate Magdziuk_error,14.0
+1898,1,K,Ka'imi Fairbairn,Kate Magdziuk_error,1.0
+1899,1,K,Jake Elliott,Kate Magdziuk_error,8.0
+1900,1,K,Tyler Bass,Kate Magdziuk_error,6.0
+1901,1,K,Brandon Aubrey,Kate Magdziuk_error,4.0
+1902,1,K,Jason Sanders,Kate Magdziuk_error,2.0
+1903,1,K,Younghoe Koo,Kate Magdziuk_error,17.0
+1904,1,K,Jake Moody,Kate Magdziuk_error,10.0
+1905,1,K,Cairo Santos,Kate Magdziuk_error,0.0
+1906,1,K,Jason Myers,Kate Magdziuk_error,
+1907,1,K,Jake Bates,Kate Magdziuk_error,
+1908,1,K,Cameron Dicker,Kate Magdziuk_error,
+1909,1,K,Blake Grupe,Kate Magdziuk_error,
+1910,1,K,Dustin Hopkins,Kate Magdziuk_error,
+1911,1,K,Chase McLaughlin,Kate Magdziuk_error,
+1912,1,K,Daniel Carlson,Kate Magdziuk_error,
+1913,1,K,Chris Boswell,Kate Magdziuk_error,
+1914,1,K,Greg Zuerlein,Kate Magdziuk_error,
+1915,1,K,Joshua Karty,Kate Magdziuk_error,
+1916,1,K,Matt Prater,Kate Magdziuk_error,
+1917,1,K,Graham Gano,Kate Magdziuk_error,
+1918,1,K,Will Reichard,Kate Magdziuk_error,
+1919,1,K,Eddy Pineiro,Kate Magdziuk_error,
+1920,1,K,Cam Little,Kate Magdziuk_error,
+1921,1,K,Wil Lutz,Kate Magdziuk_error,
+1922,1,K,Joey Slye,Kate Magdziuk_error,1.0
+1923,1,K,Brayden Narveson,Kate Magdziuk_error,
+1924,1,K,Nick Folk,Kate Magdziuk_error,
+1925,1,K,Spencer Shrader,Kate Magdziuk_error,
+1926,1,K,Cade York,Kate Magdziuk_error,
+1927,2,K,Justin Tucker,Kate Magdziuk_error,6.0
+1928,2,K,Harrison Butker,Kate Magdziuk_error,8.0
+1929,2,K,Brandon Aubrey,Kate Magdziuk_error,2.0
+1930,2,K,Ka'imi Fairbairn,Kate Magdziuk_error,2.0
+1931,2,K,Jake Elliott,Kate Magdziuk_error,20.0
+1932,2,K,Tyler Bass,Kate Magdziuk_error,16.0
+1933,2,K,Jake Moody,Kate Magdziuk_error,19.0
+1934,2,K,Jason Sanders,Kate Magdziuk_error,21.0
+1935,2,K,Evan McPherson,Kate Magdziuk_error,5.0
+1936,2,K,Chris Boswell,Kate Magdziuk_error,9.0
+1937,2,K,Younghoe Koo,Kate Magdziuk_error,1.0
+1938,2,K,Cameron Dicker,Kate Magdziuk_error,2.0
+1939,2,K,Cairo Santos,Kate Magdziuk_error,
+1940,2,K,Jake Bates,Kate Magdziuk_error,
+1941,2,K,Jason Myers,Kate Magdziuk_error,
+1942,2,K,Blake Grupe,Kate Magdziuk_error,
+1943,2,K,Chase McLaughlin,Kate Magdziuk_error,
+1944,2,K,Joshua Karty,Kate Magdziuk_error,
+1945,2,K,Greg Zuerlein,Kate Magdziuk_error,
+1946,2,K,Dustin Hopkins,Kate Magdziuk_error,
+1947,2,K,Matt Prater,Kate Magdziuk_error,
+1948,2,K,Daniel Carlson,Kate Magdziuk_error,
+1949,2,K,Cam Little,Kate Magdziuk_error,
+1950,2,K,Will Reichard,Kate Magdziuk_error,
+1951,2,K,Wil Lutz,Kate Magdziuk_error,
+1952,2,K,Nick Folk,Kate Magdziuk_error,
+1953,2,K,Eddy Pineiro,Kate Magdziuk_error,
+1954,2,K,Brayden Narveson,Kate Magdziuk_error,
+1955,3,K,Harrison Butker,Kate Magdziuk_error,1.0
+1956,3,K,Jake Moody,Kate Magdziuk_error,12.0
+1957,3,K,Brandon Aubrey,Kate Magdziuk_error,5.0
+1958,3,K,Ka'imi Fairbairn,Kate Magdziuk_error,25.0
+1959,3,K,Justin Tucker,Kate Magdziuk_error,15.0
+1960,3,K,Evan McPherson,Kate Magdziuk_error,2.0
+1961,3,K,Jake Elliott,Kate Magdziuk_error,22.0
+1962,3,K,Blake Grupe,Kate Magdziuk_error,3.0
+1963,3,K,Daniel Carlson,Kate Magdziuk_error,17.0
+1964,3,K,Cameron Dicker,Kate Magdziuk_error,10.0
+1965,3,K,Tyler Bass,Kate Magdziuk_error,3.0
+1966,3,K,Younghoe Koo,Kate Magdziuk_error,
+1967,3,K,Chase McLaughlin,Kate Magdziuk_error,
+1968,3,K,Jake Bates,Kate Magdziuk_error,
+1969,3,K,Cairo Santos,Kate Magdziuk_error,4.0
+1970,3,K,Jason Myers,Kate Magdziuk_error,
+1971,3,K,Dustin Hopkins,Kate Magdziuk_error,
+1972,3,K,Chris Boswell,Kate Magdziuk_error,
+1973,3,K,Matt Prater,Kate Magdziuk_error,
+1974,3,K,Greg Zuerlein,Kate Magdziuk_error,
+1975,3,K,Jason Sanders,Kate Magdziuk_error,
+1976,3,K,Will Reichard,Kate Magdziuk_error,
+1977,3,K,Brayden Narveson,Kate Magdziuk_error,
+1978,3,K,Cam Little,Kate Magdziuk_error,
+1979,3,K,Joshua Karty,Kate Magdziuk_error,
+1980,3,K,Wil Lutz,Kate Magdziuk_error,
+1981,3,K,Matt Gay,Kate Magdziuk_error,
+1982,3,K,Austin Seibert,Kate Magdziuk_error,
+1983,3,K,Eddy Pineiro,Kate Magdziuk_error,
+1984,3,K,Joey Slye,Kate Magdziuk_error,
+1985,3,K,Nick Folk,Kate Magdziuk_error,
+1986,4,K,Brandon Aubrey,Kate Magdziuk_error,6.0
+1987,4,K,Ka'imi Fairbairn,Kate Magdziuk_error,19.0
+1988,4,K,Harrison Butker,Kate Magdziuk_error,23.0
+1989,4,K,Jake Moody,Kate Magdziuk_error,1.0
+1990,4,K,Evan McPherson,Kate Magdziuk_error,1.0
+1991,4,K,Matt Prater,Kate Magdziuk_error,23.0
+1992,4,K,Justin Tucker,Kate Magdziuk_error,19.0
+1993,4,K,Younghoe Koo,Kate Magdziuk_error,8.0
+1994,4,K,Blake Grupe,Kate Magdziuk_error,12.0
+1995,4,K,Chase McLaughlin,Kate Magdziuk_error,4.0
+1996,4,K,Chris Boswell,Kate Magdziuk_error,4.0
+1997,4,K,Jason Myers,Kate Magdziuk_error,
+1998,4,K,Tyler Bass,Kate Magdziuk_error,12.0
+1999,4,K,Jake Elliott,Kate Magdziuk_error,
+2000,4,K,Jake Bates,Kate Magdziuk_error,
+2001,4,K,Dustin Hopkins,Kate Magdziuk_error,
+2002,4,K,Cairo Santos,Kate Magdziuk_error,
+2003,4,K,Daniel Carlson,Kate Magdziuk_error,
+2004,4,K,Will Reichard,Kate Magdziuk_error,
+2005,4,K,Brayden Narveson,Kate Magdziuk_error,
+2006,4,K,Cameron Dicker,Kate Magdziuk_error,
+2007,4,K,Greg Zuerlein,Kate Magdziuk_error,
+2008,4,K,Wil Lutz,Kate Magdziuk_error,
+2009,4,K,Austin Seibert,Kate Magdziuk_error,
+2010,4,K,Jason Sanders,Kate Magdziuk_error,
+2011,4,K,Cam Little,Kate Magdziuk_error,
+2012,4,K,Greg Joseph,Kate Magdziuk_error,
+2013,4,K,Eddy Pineiro,Kate Magdziuk_error,
+2014,4,K,Joshua Karty,Kate Magdziuk_error,
+2015,4,K,Nick Folk,Kate Magdziuk_error,
+2016,4,K,Joey Slye,Kate Magdziuk_error,
+2017,4,K,Matt Gay,Kate Magdziuk_error,
+2018,5,K,Brandon Aubrey,Kate Magdziuk_error,11.0
+2019,5,K,Harrison Butker,Kate Magdziuk_error,2.0
+2020,5,K,Ka'imi Fairbairn,Kate Magdziuk_error,0.0
+2021,5,K,Younghoe Koo,Kate Magdziuk_error,3.0
+2022,5,K,Justin Tucker,Kate Magdziuk_error,1.0
+2023,5,K,Jake Moody,Kate Magdziuk_error,6.0
+2024,5,K,Chase McLaughlin,Kate Magdziuk_error,3.0
+2025,5,K,Evan McPherson,Kate Magdziuk_error,17.0
+2026,5,K,Tyler Bass,Kate Magdziuk_error,8.0
+2027,5,K,Jason Myers,Kate Magdziuk_error,2.0
+2028,5,K,Cairo Santos,Kate Magdziuk_error,12.0
+2029,5,K,Chris Boswell,Kate Magdziuk_error,
+2030,5,K,Dustin Hopkins,Kate Magdziuk_error,
+2031,5,K,Blake Grupe,Kate Magdziuk_error,
+2032,5,K,Austin Seibert,Kate Magdziuk_error,
+2033,5,K,Wil Lutz,Kate Magdziuk_error,
+2034,5,K,Will Reichard,Kate Magdziuk_error,
+2035,5,K,Matt Gay,Kate Magdziuk_error,
+2036,5,K,Greg Zuerlein,Kate Magdziuk_error,
+2037,5,K,Cam Little,Kate Magdziuk_error,
+2038,5,K,Brayden Narveson,Kate Magdziuk_error,
+2039,5,K,Daniel Carlson,Kate Magdziuk_error,
+2040,5,K,Eddy Pineiro,Kate Magdziuk_error,
+2041,5,K,Joshua Karty,Kate Magdziuk_error,
+2042,5,K,Joey Slye,Kate Magdziuk_error,
+2043,5,K,Chad Ryland,Kate Magdziuk_error,2.0
+2044,5,K,Jason Sanders,Kate Magdziuk_error,
+2045,5,K,Greg Joseph,Kate Magdziuk_error,
+2046,6,K,Brandon Aubrey,Kate Magdziuk_error,4.0
+2047,6,K,Younghoe Koo,Kate Magdziuk_error,5.0
+2048,6,K,Ka'imi Fairbairn,Kate Magdziuk_error,2.0
+2049,6,K,Justin Tucker,Kate Magdziuk_error,2.0
+2050,6,K,Chase McLaughlin,Kate Magdziuk_error,11.0
+2051,6,K,Evan McPherson,Kate Magdziuk_error,14.0
+2052,6,K,Chris Boswell,Kate Magdziuk_error,6.0
+2053,6,K,Austin Seibert,Kate Magdziuk_error,2.0
+2054,6,K,Jake Elliott,Kate Magdziuk_error,0.0
+2055,6,K,Jason Myers,Kate Magdziuk_error,9.0
+2056,6,K,Tyler Bass,Kate Magdziuk_error,10.0
+2057,6,K,Cameron Dicker,Kate Magdziuk_error,3.0
+2058,6,K,Greg Joseph,Kate Magdziuk_error,
+2059,6,K,Cairo Santos,Kate Magdziuk_error,
+2060,6,K,Jake Bates,Kate Magdziuk_error,
+2061,6,K,Brayden Narveson,Kate Magdziuk_error,
+2062,6,K,Blake Grupe,Kate Magdziuk_error,
+2063,6,K,Matt Gay,Kate Magdziuk_error,
+2064,6,K,Wil Lutz,Kate Magdziuk_error,
+2065,6,K,Nick Folk,Kate Magdziuk_error,
+2066,6,K,Cam Little,Kate Magdziuk_error,
+2067,6,K,Eddy Pineiro,Kate Magdziuk_error,
+2068,6,K,Chad Ryland,Kate Magdziuk_error,
+2069,6,K,Matthew Wright,Kate Magdziuk_error,
+2070,6,K,Daniel Carlson,Kate Magdziuk_error,
+2071,6,K,Greg Zuerlein,Kate Magdziuk_error,
+2072,6,K,Dustin Hopkins,Kate Magdziuk_error,
+2073,6,K,Joey Slye,Kate Magdziuk_error,
+2074,7,K,Younghoe Koo,Kate Magdziuk_error,25.0
+2075,7,K,Justin Tucker,Kate Magdziuk_error,5.0
+2076,7,K,Ka'imi Fairbairn,Kate Magdziuk_error,5.0
+2077,7,K,Austin Seibert,Kate Magdziuk_error,2.0
+2078,7,K,Evan McPherson,Kate Magdziuk_error,20.0
+2079,7,K,Will Reichard,Kate Magdziuk_error,1.0
+2080,7,K,Chase McLaughlin,Kate Magdziuk_error,9.0
+2081,7,K,Harrison Butker,Kate Magdziuk_error,11.0
+2082,7,K,Jake Elliott,Kate Magdziuk_error,10.0
+2083,7,K,Cameron Dicker,Kate Magdziuk_error,9.0
+2084,7,K,Jake Bates,Kate Magdziuk_error,1.0
+2085,7,K,Jason Myers,Kate Magdziuk_error,
+2086,7,K,Tyler Bass,Kate Magdziuk_error,
+2087,7,K,Matt Gay,Kate Magdziuk_error,
+2088,7,K,Blake Grupe,Kate Magdziuk_error,7.0
+2089,7,K,Chris Boswell,Kate Magdziuk_error,
+2090,7,K,Wil Lutz,Kate Magdziuk_error,
+2091,7,K,Joshua Karty,Kate Magdziuk_error,
+2092,7,K,Jason Sanders,Kate Magdziuk_error,
+2093,7,K,Greg Joseph,Kate Magdziuk_error,
+2094,7,K,Dustin Hopkins,Kate Magdziuk_error,
+2095,7,K,Cam Little,Kate Magdziuk_error,
+2096,7,K,Brandon McManus,Kate Magdziuk_error,
+2097,7,K,Anders Carlson,Kate Magdziuk_error,
+2098,7,K,Eddy Pineiro,Kate Magdziuk_error,
+2099,7,K,Greg Zuerlein,Kate Magdziuk_error,
+2100,7,K,Nick Folk,Kate Magdziuk_error,
+2101,7,K,Daniel Carlson,Kate Magdziuk_error,
+2102,7,K,Joey Slye,Kate Magdziuk_error,
+2103,7,K,Chad Ryland,Kate Magdziuk_error,
+2104,8,K,Will Reichard,Kate Magdziuk_error,14.0
+2105,8,K,Justin Tucker,Kate Magdziuk_error,19.0
+2106,8,K,Ka'imi Fairbairn,Kate Magdziuk_error,7.0
+2107,8,K,Brandon Aubrey,Kate Magdziuk_error,18.0
+2108,8,K,Younghoe Koo,Kate Magdziuk_error,16.0
+2109,8,K,Harrison Butker,Kate Magdziuk_error,4.0
+2110,8,K,Austin Seibert,Kate Magdziuk_error,1.0
+2111,8,K,Evan McPherson,Kate Magdziuk_error,15.0
+2112,8,K,Chase McLaughlin,Kate Magdziuk_error,9.0
+2113,8,K,Wil Lutz,Kate Magdziuk_error,15.0
+2114,8,K,Cameron Dicker,Kate Magdziuk_error,5.0
+2115,8,K,Jake Bates,Kate Magdziuk_error,6.0
+2116,8,K,Chris Boswell,Kate Magdziuk_error,
+2117,8,K,Brandon McManus,Kate Magdziuk_error,
+2118,8,K,Jason Myers,Kate Magdziuk_error,
+2119,8,K,Jake Elliott,Kate Magdziuk_error,
+2120,8,K,Tyler Bass,Kate Magdziuk_error,
+2121,8,K,Cairo Santos,Kate Magdziuk_error,
+2122,8,K,Joshua Karty,Kate Magdziuk_error,
+2123,8,K,Matt Gay,Kate Magdziuk_error,
+2124,8,K,Jason Sanders,Kate Magdziuk_error,
+2125,8,K,Anders Carlson,Kate Magdziuk_error,
+2126,8,K,Chad Ryland,Kate Magdziuk_error,
+2127,8,K,Cam Little,Kate Magdziuk_error,
+2128,8,K,Daniel Carlson,Kate Magdziuk_error,
+2129,8,K,Blake Grupe,Kate Magdziuk_error,
+2130,8,K,Dustin Hopkins,Kate Magdziuk_error,
+2131,8,K,Joey Slye,Kate Magdziuk_error,
+2132,8,K,Greg Zuerlein,Kate Magdziuk_error,
+2133,8,K,Nick Folk,Kate Magdziuk_error,
+2134,8,K,Eddy Pineiro,Kate Magdziuk_error,
+2135,8,K,Greg Joseph,Kate Magdziuk_error,
+2136,9,K,Brandon Aubrey,Kate Magdziuk_error,7.0
+2137,9,K,Will Reichard,Kate Magdziuk_error,21.0
+2138,9,K,Younghoe Koo,Kate Magdziuk_error,22.0
+2139,9,K,Austin Seibert,Kate Magdziuk_error,6.0
+2140,9,K,Justin Tucker,Kate Magdziuk_error,0.0
+2141,9,K,Harrison Butker,Kate Magdziuk_error,7.0
+2142,9,K,Ka'imi Fairbairn,Kate Magdziuk_error,2.0
+2143,9,K,Cameron Dicker,Kate Magdziuk_error,17.0
+2144,9,K,Evan McPherson,Kate Magdziuk_error,7.0
+2145,9,K,Brandon McManus,Kate Magdziuk_error,9.0
+2146,9,K,Jake Elliott,Kate Magdziuk_error,10.0
+2147,9,K,Tyler Bass,Kate Magdziuk_error,11.0
+2148,9,K,Jake Bates,Kate Magdziuk_error,
+2149,9,K,Chase McLaughlin,Kate Magdziuk_error,
+2150,9,K,Jason Myers,Kate Magdziuk_error,
+2151,9,K,Blake Grupe,Kate Magdziuk_error,
+2152,9,K,Wil Lutz,Kate Magdziuk_error,
+2153,9,K,Cairo Santos,Kate Magdziuk_error,
+2154,9,K,Chad Ryland,Kate Magdziuk_error,
+2155,9,K,Jason Sanders,Kate Magdziuk_error,
+2156,9,K,Matt Gay,Kate Magdziuk_error,
+2157,9,K,Joshua Karty,Kate Magdziuk_error,
+2158,9,K,Dustin Hopkins,Kate Magdziuk_error,
+2159,9,K,Cam Little,Kate Magdziuk_error,
+2160,9,K,Daniel Carlson,Kate Magdziuk_error,
+2161,9,K,Joey Slye,Kate Magdziuk_error,
+2162,9,K,Riley Patterson,Kate Magdziuk_error,
+2163,9,K,Eddy Pineiro,Kate Magdziuk_error,
+2164,9,K,Nick Folk,Kate Magdziuk_error,
+2165,9,K,Jude McAtamney,Kate Magdziuk_error,
+2166,10,K,Younghoe Koo,Kate Magdziuk_error,20.0
+2167,10,K,Justin Tucker,Kate Magdziuk_error,20.0
+2168,10,K,Cameron Dicker,Kate Magdziuk_error,11.0
+2169,10,K,Tyler Bass,Kate Magdziuk_error,6.0
+2170,10,K,Chris Boswell,Kate Magdziuk_error,16.0
+2171,10,K,Harrison Butker,Kate Magdziuk_error,0.0
+2172,10,K,Ka'imi Fairbairn,Kate Magdziuk_error,0.0
+2173,10,K,Brandon Aubrey,Kate Magdziuk_error,13.0
+2174,10,K,Jake Elliott,Kate Magdziuk_error,1.0
+2175,10,K,Jake Bates,Kate Magdziuk_error,5.0
+2176,10,K,Jason Sanders,Kate Magdziuk_error,
+2177,10,K,Evan McPherson,Kate Magdziuk_error,
+2178,10,K,Jake Moody,Kate Magdziuk_error,
+2179,10,K,Joshua Karty,Kate Magdziuk_error,
+2180,10,K,Matt Gay,Kate Magdziuk_error,
+2181,10,K,Blake Grupe,Kate Magdziuk_error,8.0
+2182,10,K,Chad Ryland,Kate Magdziuk_error,
+2183,10,K,Chase McLaughlin,Kate Magdziuk_error,
+2184,10,K,Wil Lutz,Kate Magdziuk_error,
+2185,10,K,Zane Gonzalez,Kate Magdziuk_error,1.0
+2186,10,K,Cairo Santos,Kate Magdziuk_error,
+2187,10,K,Cam Little,Kate Magdziuk_error,
+2188,10,K,Joey Slye,Kate Magdziuk_error,
+2189,10,K,Nick Folk,Kate Magdziuk_error,
+2190,10,K,Spencer Shrader,Kate Magdziuk_error,
+2191,10,K,Eddy Pineiro,Kate Magdziuk_error,
+2192,11,K,Ka'imi Fairbairn,Kate Magdziuk_error,8.0
+2193,11,K,Jake Bates,Kate Magdziuk_error,1.0
+2194,11,K,Cameron Dicker,Kate Magdziuk_error,0.0
+2195,11,K,Chris Boswell,Kate Magdziuk_error,3.0
+2196,11,K,Justin Tucker,Kate Magdziuk_error,13.0
+2197,11,K,Jake Moody,Kate Magdziuk_error,16.0
+2198,11,K,Tyler Bass,Kate Magdziuk_error,11.0
+2199,11,K,Younghoe Koo,Kate Magdziuk_error,1.0
+2200,11,K,Jason Sanders,Kate Magdziuk_error,4.0
+2201,11,K,Jake Elliott,Kate Magdziuk_error,
+2202,11,K,Brandon McManus,Kate Magdziuk_error,
+2203,11,K,Wil Lutz,Kate Magdziuk_error,2.0
+2204,11,K,Joshua Karty,Kate Magdziuk_error,
+2205,11,K,Brandon Aubrey,Kate Magdziuk_error,7.0
+2206,11,K,Evan McPherson,Kate Magdziuk_error,
+2207,11,K,Zane Gonzalez,Kate Magdziuk_error,14.0
+2208,11,K,Blake Grupe,Kate Magdziuk_error,
+2209,11,K,Dustin Hopkins,Kate Magdziuk_error,
+2210,11,K,Matt Gay,Kate Magdziuk_error,
+2211,11,K,Jason Myers,Kate Magdziuk_error,
+2212,11,K,Spencer Shrader,Kate Magdziuk_error,
+2213,11,K,Cairo Santos,Kate Magdziuk_error,
+2214,11,K,Daniel Carlson,Kate Magdziuk_error,
+2215,11,K,Joey Slye,Kate Magdziuk_error,
+2216,11,K,Cam Little,Kate Magdziuk_error,
+2217,11,K,Anders Carlson,Kate Magdziuk_error,
+2218,11,K,Nick Folk,Kate Magdziuk_error,
+2219,12,K,Jake Bates,Kate Magdziuk_error,14.0
+2220,12,K,Ka'imi Fairbairn,Kate Magdziuk_error,9.0
+2221,12,K,Cameron Dicker,Kate Magdziuk_error,0.0
+2222,12,K,Jason Sanders,Kate Magdziuk_error,4.0
+2223,12,K,Wil Lutz,Kate Magdziuk_error,5.0
+2224,12,K,Justin Tucker,Kate Magdziuk_error,8.0
+2225,12,K,Chris Boswell,Kate Magdziuk_error,3.0
+2226,12,K,Chase McLaughlin,Kate Magdziuk_error,8.0
+2227,12,K,Jake Moody,Kate Magdziuk_error,15.0
+2228,12,K,Brandon Aubrey,Kate Magdziuk_error,1.0
+2229,12,K,Spencer Shrader,Kate Magdziuk_error,
+2230,12,K,Jake Elliott,Kate Magdziuk_error,
+2231,12,K,Chad Ryland,Kate Magdziuk_error,
+2232,12,K,Austin Seibert,Kate Magdziuk_error,9.0
+2233,12,K,Brandon McManus,Kate Magdziuk_error,
+2234,12,K,Matt Gay,Kate Magdziuk_error,
+2235,12,K,Joshua Karty,Kate Magdziuk_error,
+2236,12,K,Jason Myers,Kate Magdziuk_error,
+2237,12,K,Joey Slye,Kate Magdziuk_error,
+2238,12,K,Daniel Carlson,Kate Magdziuk_error,
+2239,12,K,Dustin Hopkins,Kate Magdziuk_error,
+2240,12,K,Cairo Santos,Kate Magdziuk_error,
+2241,12,K,Graham Gano,Kate Magdziuk_error,
+2242,12,K,Nick Folk,Kate Magdziuk_error,
+2243,12,K,Eddy Pineiro,Kate Magdziuk_error,
+2244,13,K,Cameron Dicker,Kate Magdziuk_error,7.0
+2245,13,K,Jake Bates,Kate Magdziuk_error,5.0
+2246,13,K,Ka'imi Fairbairn,Kate Magdziuk_error,1.0
+2247,13,K,Chris Boswell,Kate Magdziuk_error,5.0
+2248,13,K,Chase McLaughlin,Kate Magdziuk_error,2.0
+2249,13,K,Brandon Aubrey,Kate Magdziuk_error,8.0
+2250,13,K,Wil Lutz,Kate Magdziuk_error,1.0
+2251,13,K,Justin Tucker,Kate Magdziuk_error,10.0
+2252,13,K,Jake Elliott,Kate Magdziuk_error,20.0
+2253,13,K,Tyler Bass,Kate Magdziuk_error,15.0
+2254,13,K,Brandon McManus,Kate Magdziuk_error,
+2255,13,K,Jason Sanders,Kate Magdziuk_error,17.0
+2256,13,K,Chad Ryland,Kate Magdziuk_error,8.0
+2257,13,K,Younghoe Koo,Kate Magdziuk_error,
+2258,13,K,Joshua Karty,Kate Magdziuk_error,
+2259,13,K,Evan McPherson,Kate Magdziuk_error,
+2260,13,K,Jason Myers,Kate Magdziuk_error,
+2261,13,K,Matt Gay,Kate Magdziuk_error,
+2262,13,K,Zane Gonzalez,Kate Magdziuk_error,
+2263,13,K,Jake Moody,Kate Magdziuk_error,
+2264,13,K,Blake Grupe,Kate Magdziuk_error,
+2265,13,K,Matthew Wright,Kate Magdziuk_error,
+2266,13,K,Joey Slye,Kate Magdziuk_error,
+2267,13,K,Nick Folk,Kate Magdziuk_error,
+2268,13,K,Cairo Santos,Kate Magdziuk_error,
+2269,13,K,Dustin Hopkins,Kate Magdziuk_error,
+2270,13,K,Eddy Pineiro,Kate Magdziuk_error,
+2271,13,K,Daniel Carlson,Kate Magdziuk_error,
+2272,13,K,Cam Little,Kate Magdziuk_error,
+2273,13,K,Graham Gano,Kate Magdziuk_error,
+2274,1,K,Evan McPherson,Tera Roberts_error,23.0
+2275,1,K,Harrison Butker,Tera Roberts_error,14.0
+2276,1,K,Justin Tucker,Tera Roberts_error,14.0
+2277,1,K,Ka'imi Fairbairn,Tera Roberts_error,0.0
+2278,1,K,Jake Elliott,Tera Roberts_error,5.0
+2279,1,K,Tyler Bass,Tera Roberts_error,8.0
+2280,1,K,Brandon Aubrey,Tera Roberts_error,5.0
+2281,1,K,Jason Sanders,Tera Roberts_error,4.0
+2282,1,K,Younghoe Koo,Tera Roberts_error,19.0
+2283,1,K,Jake Moody,Tera Roberts_error,9.0
+2284,1,K,Cairo Santos,Tera Roberts_error,
+2285,1,K,Jason Myers,Tera Roberts_error,0.0
+2286,1,K,Jake Bates,Tera Roberts_error,
+2287,1,K,Cameron Dicker,Tera Roberts_error,4.0
+2288,1,K,Blake Grupe,Tera Roberts_error,
+2289,1,K,Dustin Hopkins,Tera Roberts_error,
+2290,1,K,Chase McLaughlin,Tera Roberts_error,
+2291,1,K,Daniel Carlson,Tera Roberts_error,
+2292,1,K,Chris Boswell,Tera Roberts_error,
+2293,1,K,Greg Zuerlein,Tera Roberts_error,
+2294,1,K,Joshua Karty,Tera Roberts_error,
+2295,1,K,Matt Prater,Tera Roberts_error,
+2296,1,K,Graham Gano,Tera Roberts_error,
+2297,1,K,Will Reichard,Tera Roberts_error,
+2298,1,K,Eddy Pineiro,Tera Roberts_error,
+2299,1,K,Cam Little,Tera Roberts_error,
+2300,1,K,Wil Lutz,Tera Roberts_error,
+2301,1,K,Joey Slye,Tera Roberts_error,
+2302,1,K,Brayden Narveson,Tera Roberts_error,
+2303,1,K,Nick Folk,Tera Roberts_error,
+2304,1,K,Spencer Shrader,Tera Roberts_error,
+2305,1,K,Cade York,Tera Roberts_error,
+2306,2,K,Justin Tucker,Tera Roberts_error,3.0
+2307,2,K,Harrison Butker,Tera Roberts_error,12.0
+2308,2,K,Brandon Aubrey,Tera Roberts_error,4.0
+2309,2,K,Ka'imi Fairbairn,Tera Roberts_error,0.0
+2310,2,K,Jake Elliott,Tera Roberts_error,17.0
+2311,2,K,Tyler Bass,Tera Roberts_error,13.0
+2312,2,K,Jake Moody,Tera Roberts_error,17.0
+2313,2,K,Jason Sanders,Tera Roberts_error,21.0
+2314,2,K,Evan McPherson,Tera Roberts_error,2.0
+2315,2,K,Chris Boswell,Tera Roberts_error,6.0
+2316,2,K,Younghoe Koo,Tera Roberts_error,4.0
+2317,2,K,Cameron Dicker,Tera Roberts_error,
+2318,2,K,Cairo Santos,Tera Roberts_error,
+2319,2,K,Jake Bates,Tera Roberts_error,
+2320,2,K,Jason Myers,Tera Roberts_error,
+2321,2,K,Blake Grupe,Tera Roberts_error,8.0
+2322,2,K,Chase McLaughlin,Tera Roberts_error,
+2323,2,K,Joshua Karty,Tera Roberts_error,
+2324,2,K,Greg Zuerlein,Tera Roberts_error,
+2325,2,K,Dustin Hopkins,Tera Roberts_error,
+2326,2,K,Matt Prater,Tera Roberts_error,
+2327,2,K,Daniel Carlson,Tera Roberts_error,
+2328,2,K,Cam Little,Tera Roberts_error,
+2329,2,K,Will Reichard,Tera Roberts_error,
+2330,2,K,Wil Lutz,Tera Roberts_error,
+2331,2,K,Nick Folk,Tera Roberts_error,
+2332,2,K,Eddy Pineiro,Tera Roberts_error,
+2333,2,K,Brayden Narveson,Tera Roberts_error,
+2334,3,K,Harrison Butker,Tera Roberts_error,0.0
+2335,3,K,Jake Moody,Tera Roberts_error,14.0
+2336,3,K,Brandon Aubrey,Tera Roberts_error,3.0
+2337,3,K,Ka'imi Fairbairn,Tera Roberts_error,24.0
+2338,3,K,Justin Tucker,Tera Roberts_error,14.0
+2339,3,K,Evan McPherson,Tera Roberts_error,5.0
+2340,3,K,Jake Elliott,Tera Roberts_error,22.0
+2341,3,K,Blake Grupe,Tera Roberts_error,3.0
+2342,3,K,Daniel Carlson,Tera Roberts_error,17.0
+2343,3,K,Cameron Dicker,Tera Roberts_error,12.0
+2344,3,K,Tyler Bass,Tera Roberts_error,5.0
+2345,3,K,Younghoe Koo,Tera Roberts_error,3.0
+2346,3,K,Chase McLaughlin,Tera Roberts_error,
+2347,3,K,Jake Bates,Tera Roberts_error,
+2348,3,K,Cairo Santos,Tera Roberts_error,
+2349,3,K,Jason Myers,Tera Roberts_error,
+2350,3,K,Dustin Hopkins,Tera Roberts_error,
+2351,3,K,Chris Boswell,Tera Roberts_error,
+2352,3,K,Matt Prater,Tera Roberts_error,
+2353,3,K,Greg Zuerlein,Tera Roberts_error,
+2354,3,K,Jason Sanders,Tera Roberts_error,
+2355,3,K,Will Reichard,Tera Roberts_error,
+2356,3,K,Brayden Narveson,Tera Roberts_error,
+2357,3,K,Cam Little,Tera Roberts_error,
+2358,3,K,Joshua Karty,Tera Roberts_error,
+2359,3,K,Wil Lutz,Tera Roberts_error,
+2360,3,K,Matt Gay,Tera Roberts_error,
+2361,3,K,Austin Seibert,Tera Roberts_error,
+2362,3,K,Eddy Pineiro,Tera Roberts_error,
+2363,3,K,Joey Slye,Tera Roberts_error,
+2364,3,K,Nick Folk,Tera Roberts_error,
+2365,4,K,Brandon Aubrey,Tera Roberts_error,6.0
+2366,4,K,Ka'imi Fairbairn,Tera Roberts_error,19.0
+2367,4,K,Harrison Butker,Tera Roberts_error,22.0
+2368,4,K,Jake Moody,Tera Roberts_error,2.0
+2369,4,K,Evan McPherson,Tera Roberts_error,0.0
+2370,4,K,Matt Prater,Tera Roberts_error,23.0
+2371,4,K,Justin Tucker,Tera Roberts_error,19.0
+2372,4,K,Younghoe Koo,Tera Roberts_error,4.0
+2373,4,K,Blake Grupe,Tera Roberts_error,6.0
+2374,4,K,Chase McLaughlin,Tera Roberts_error,3.0
+2375,4,K,Chris Boswell,Tera Roberts_error,4.0
+2376,4,K,Jason Myers,Tera Roberts_error,
+2377,4,K,Tyler Bass,Tera Roberts_error,
+2378,4,K,Jake Elliott,Tera Roberts_error,22.0
+2379,4,K,Jake Bates,Tera Roberts_error,
+2380,4,K,Dustin Hopkins,Tera Roberts_error,
+2381,4,K,Cairo Santos,Tera Roberts_error,
+2382,4,K,Daniel Carlson,Tera Roberts_error,
+2383,4,K,Will Reichard,Tera Roberts_error,
+2384,4,K,Brayden Narveson,Tera Roberts_error,
+2385,4,K,Cameron Dicker,Tera Roberts_error,
+2386,4,K,Greg Zuerlein,Tera Roberts_error,
+2387,4,K,Wil Lutz,Tera Roberts_error,
+2388,4,K,Austin Seibert,Tera Roberts_error,
+2389,4,K,Jason Sanders,Tera Roberts_error,
+2390,4,K,Cam Little,Tera Roberts_error,
+2391,4,K,Greg Joseph,Tera Roberts_error,
+2392,4,K,Eddy Pineiro,Tera Roberts_error,
+2393,4,K,Joshua Karty,Tera Roberts_error,
+2394,4,K,Nick Folk,Tera Roberts_error,
+2395,4,K,Joey Slye,Tera Roberts_error,
+2396,4,K,Matt Gay,Tera Roberts_error,
+2397,5,K,Brandon Aubrey,Tera Roberts_error,11.0
+2398,5,K,Harrison Butker,Tera Roberts_error,3.0
+2399,5,K,Ka'imi Fairbairn,Tera Roberts_error,1.0
+2400,5,K,Younghoe Koo,Tera Roberts_error,3.0
+2401,5,K,Justin Tucker,Tera Roberts_error,0.0
+2402,5,K,Jake Moody,Tera Roberts_error,12.0
+2403,5,K,Chase McLaughlin,Tera Roberts_error,7.0
+2404,5,K,Evan McPherson,Tera Roberts_error,18.0
+2405,5,K,Tyler Bass,Tera Roberts_error,9.0
+2406,5,K,Jason Myers,Tera Roberts_error,2.0
+2407,5,K,Cairo Santos,Tera Roberts_error,9.0
+2408,5,K,Chris Boswell,Tera Roberts_error,8.0
+2409,5,K,Dustin Hopkins,Tera Roberts_error,
+2410,5,K,Blake Grupe,Tera Roberts_error,
+2411,5,K,Austin Seibert,Tera Roberts_error,
+2412,5,K,Wil Lutz,Tera Roberts_error,
+2413,5,K,Will Reichard,Tera Roberts_error,
+2414,5,K,Matt Gay,Tera Roberts_error,
+2415,5,K,Greg Zuerlein,Tera Roberts_error,
+2416,5,K,Cam Little,Tera Roberts_error,
+2417,5,K,Brayden Narveson,Tera Roberts_error,
+2418,5,K,Daniel Carlson,Tera Roberts_error,
+2419,5,K,Eddy Pineiro,Tera Roberts_error,
+2420,5,K,Joshua Karty,Tera Roberts_error,
+2421,5,K,Joey Slye,Tera Roberts_error,
+2422,5,K,Chad Ryland,Tera Roberts_error,
+2423,5,K,Jason Sanders,Tera Roberts_error,
+2424,5,K,Greg Joseph,Tera Roberts_error,
+2425,6,K,Brandon Aubrey,Tera Roberts_error,5.0
+2426,6,K,Younghoe Koo,Tera Roberts_error,4.0
+2427,6,K,Ka'imi Fairbairn,Tera Roberts_error,2.0
+2428,6,K,Justin Tucker,Tera Roberts_error,2.0
+2429,6,K,Chase McLaughlin,Tera Roberts_error,11.0
+2430,6,K,Evan McPherson,Tera Roberts_error,16.0
+2431,6,K,Chris Boswell,Tera Roberts_error,5.0
+2432,6,K,Austin Seibert,Tera Roberts_error,5.0
+2433,6,K,Jake Elliott,Tera Roberts_error,1.0
+2434,6,K,Jason Myers,Tera Roberts_error,10.0
+2435,6,K,Tyler Bass,Tera Roberts_error,11.0
+2436,6,K,Cameron Dicker,Tera Roberts_error,
+2437,6,K,Greg Joseph,Tera Roberts_error,
+2438,6,K,Cairo Santos,Tera Roberts_error,
+2439,6,K,Jake Bates,Tera Roberts_error,
+2440,6,K,Brayden Narveson,Tera Roberts_error,1.0
+2441,6,K,Blake Grupe,Tera Roberts_error,
+2442,6,K,Matt Gay,Tera Roberts_error,
+2443,6,K,Wil Lutz,Tera Roberts_error,
+2444,6,K,Nick Folk,Tera Roberts_error,
+2445,6,K,Cam Little,Tera Roberts_error,
+2446,6,K,Eddy Pineiro,Tera Roberts_error,
+2447,6,K,Chad Ryland,Tera Roberts_error,
+2448,6,K,Matthew Wright,Tera Roberts_error,
+2449,6,K,Daniel Carlson,Tera Roberts_error,
+2450,6,K,Greg Zuerlein,Tera Roberts_error,
+2451,6,K,Dustin Hopkins,Tera Roberts_error,
+2452,6,K,Joey Slye,Tera Roberts_error,
+2453,7,K,Younghoe Koo,Tera Roberts_error,25.0
+2454,7,K,Justin Tucker,Tera Roberts_error,2.0
+2455,7,K,Ka'imi Fairbairn,Tera Roberts_error,6.0
+2456,7,K,Austin Seibert,Tera Roberts_error,1.0
+2457,7,K,Evan McPherson,Tera Roberts_error,21.0
+2458,7,K,Will Reichard,Tera Roberts_error,2.0
+2459,7,K,Chase McLaughlin,Tera Roberts_error,10.0
+2460,7,K,Harrison Butker,Tera Roberts_error,11.0
+2461,7,K,Jake Elliott,Tera Roberts_error,9.0
+2462,7,K,Cameron Dicker,Tera Roberts_error,8.0
+2463,7,K,Jake Bates,Tera Roberts_error,
+2464,7,K,Jason Myers,Tera Roberts_error,
+2465,7,K,Tyler Bass,Tera Roberts_error,0.0
+2466,7,K,Matt Gay,Tera Roberts_error,
+2467,7,K,Blake Grupe,Tera Roberts_error,
+2468,7,K,Chris Boswell,Tera Roberts_error,6.0
+2469,7,K,Wil Lutz,Tera Roberts_error,
+2470,7,K,Joshua Karty,Tera Roberts_error,
+2471,7,K,Jason Sanders,Tera Roberts_error,
+2472,7,K,Greg Joseph,Tera Roberts_error,
+2473,7,K,Dustin Hopkins,Tera Roberts_error,
+2474,7,K,Cam Little,Tera Roberts_error,
+2475,7,K,Brandon McManus,Tera Roberts_error,
+2476,7,K,Anders Carlson,Tera Roberts_error,
+2477,7,K,Eddy Pineiro,Tera Roberts_error,
+2478,7,K,Greg Zuerlein,Tera Roberts_error,
+2479,7,K,Nick Folk,Tera Roberts_error,
+2480,7,K,Daniel Carlson,Tera Roberts_error,
+2481,7,K,Joey Slye,Tera Roberts_error,
+2482,7,K,Chad Ryland,Tera Roberts_error,
+2483,8,K,Will Reichard,Tera Roberts_error,15.0
+2484,8,K,Justin Tucker,Tera Roberts_error,19.0
+2485,8,K,Ka'imi Fairbairn,Tera Roberts_error,6.0
+2486,8,K,Brandon Aubrey,Tera Roberts_error,19.0
+2487,8,K,Younghoe Koo,Tera Roberts_error,15.0
+2488,8,K,Harrison Butker,Tera Roberts_error,3.0
+2489,8,K,Austin Seibert,Tera Roberts_error,2.0
+2490,8,K,Evan McPherson,Tera Roberts_error,14.0
+2491,8,K,Chase McLaughlin,Tera Roberts_error,8.0
+2492,8,K,Wil Lutz,Tera Roberts_error,20.0
+2493,8,K,Cameron Dicker,Tera Roberts_error,4.0
+2494,8,K,Jake Bates,Tera Roberts_error,
+2495,8,K,Chris Boswell,Tera Roberts_error,
+2496,8,K,Brandon McManus,Tera Roberts_error,6.0
+2497,8,K,Jason Myers,Tera Roberts_error,
+2498,8,K,Jake Elliott,Tera Roberts_error,
+2499,8,K,Tyler Bass,Tera Roberts_error,
+2500,8,K,Cairo Santos,Tera Roberts_error,
+2501,8,K,Joshua Karty,Tera Roberts_error,
+2502,8,K,Matt Gay,Tera Roberts_error,
+2503,8,K,Jason Sanders,Tera Roberts_error,
+2504,8,K,Anders Carlson,Tera Roberts_error,
+2505,8,K,Chad Ryland,Tera Roberts_error,
+2506,8,K,Cam Little,Tera Roberts_error,
+2507,8,K,Daniel Carlson,Tera Roberts_error,
+2508,8,K,Blake Grupe,Tera Roberts_error,
+2509,8,K,Dustin Hopkins,Tera Roberts_error,
+2510,8,K,Joey Slye,Tera Roberts_error,
+2511,8,K,Greg Zuerlein,Tera Roberts_error,
+2512,8,K,Nick Folk,Tera Roberts_error,
+2513,8,K,Eddy Pineiro,Tera Roberts_error,
+2514,8,K,Greg Joseph,Tera Roberts_error,
+2515,9,K,Brandon Aubrey,Tera Roberts_error,7.0
+2516,9,K,Will Reichard,Tera Roberts_error,23.0
+2517,9,K,Younghoe Koo,Tera Roberts_error,22.0
+2518,9,K,Austin Seibert,Tera Roberts_error,4.0
+2519,9,K,Justin Tucker,Tera Roberts_error,0.0
+2520,9,K,Harrison Butker,Tera Roberts_error,7.0
+2521,9,K,Ka'imi Fairbairn,Tera Roberts_error,2.0
+2522,9,K,Cameron Dicker,Tera Roberts_error,15.0
+2523,9,K,Evan McPherson,Tera Roberts_error,5.0
+2524,9,K,Brandon McManus,Tera Roberts_error,7.0
+2525,9,K,Jake Elliott,Tera Roberts_error,12.0
+2526,9,K,Tyler Bass,Tera Roberts_error,
+2527,9,K,Jake Bates,Tera Roberts_error,6.0
+2528,9,K,Chase McLaughlin,Tera Roberts_error,
+2529,9,K,Jason Myers,Tera Roberts_error,
+2530,9,K,Blake Grupe,Tera Roberts_error,
+2531,9,K,Wil Lutz,Tera Roberts_error,
+2532,9,K,Cairo Santos,Tera Roberts_error,
+2533,9,K,Chad Ryland,Tera Roberts_error,
+2534,9,K,Jason Sanders,Tera Roberts_error,
+2535,9,K,Matt Gay,Tera Roberts_error,
+2536,9,K,Joshua Karty,Tera Roberts_error,
+2537,9,K,Dustin Hopkins,Tera Roberts_error,
+2538,9,K,Cam Little,Tera Roberts_error,
+2539,9,K,Daniel Carlson,Tera Roberts_error,
+2540,9,K,Joey Slye,Tera Roberts_error,
+2541,9,K,Riley Patterson,Tera Roberts_error,
+2542,9,K,Eddy Pineiro,Tera Roberts_error,
+2543,9,K,Nick Folk,Tera Roberts_error,
+2544,9,K,Jude McAtamney,Tera Roberts_error,
+2545,10,K,Younghoe Koo,Tera Roberts_error,16.0
+2546,10,K,Justin Tucker,Tera Roberts_error,24.0
+2547,10,K,Cameron Dicker,Tera Roberts_error,7.0
+2548,10,K,Tyler Bass,Tera Roberts_error,1.0
+2549,10,K,Chris Boswell,Tera Roberts_error,20.0
+2550,10,K,Harrison Butker,Tera Roberts_error,6.0
+2551,10,K,Ka'imi Fairbairn,Tera Roberts_error,4.0
+2552,10,K,Brandon Aubrey,Tera Roberts_error,9.0
+2553,10,K,Jake Elliott,Tera Roberts_error,1.0
+2554,10,K,Jake Bates,Tera Roberts_error,5.0
+2555,10,K,Jason Sanders,Tera Roberts_error,7.0
+2556,10,K,Evan McPherson,Tera Roberts_error,
+2557,10,K,Jake Moody,Tera Roberts_error,3.0
+2558,10,K,Joshua Karty,Tera Roberts_error,
+2559,10,K,Matt Gay,Tera Roberts_error,
+2560,10,K,Blake Grupe,Tera Roberts_error,
+2561,10,K,Chad Ryland,Tera Roberts_error,
+2562,10,K,Chase McLaughlin,Tera Roberts_error,
+2563,10,K,Wil Lutz,Tera Roberts_error,
+2564,10,K,Zane Gonzalez,Tera Roberts_error,
+2565,10,K,Cairo Santos,Tera Roberts_error,
+2566,10,K,Cam Little,Tera Roberts_error,
+2567,10,K,Joey Slye,Tera Roberts_error,
+2568,10,K,Nick Folk,Tera Roberts_error,
+2569,10,K,Spencer Shrader,Tera Roberts_error,
+2570,10,K,Eddy Pineiro,Tera Roberts_error,
+2571,11,K,Ka'imi Fairbairn,Tera Roberts_error,8.0
+2572,11,K,Jake Bates,Tera Roberts_error,0.0
+2573,11,K,Cameron Dicker,Tera Roberts_error,1.0
+2574,11,K,Chris Boswell,Tera Roberts_error,1.0
+2575,11,K,Justin Tucker,Tera Roberts_error,12.0
+2576,11,K,Jake Moody,Tera Roberts_error,15.0
+2577,11,K,Tyler Bass,Tera Roberts_error,13.0
+2578,11,K,Younghoe Koo,Tera Roberts_error,
+2579,11,K,Jason Sanders,Tera Roberts_error,2.0
+2580,11,K,Jake Elliott,Tera Roberts_error,5.0
+2581,11,K,Brandon McManus,Tera Roberts_error,17.0
+2582,11,K,Wil Lutz,Tera Roberts_error,
+2583,11,K,Joshua Karty,Tera Roberts_error,13.0
+2584,11,K,Brandon Aubrey,Tera Roberts_error,
+2585,11,K,Evan McPherson,Tera Roberts_error,1.0
+2586,11,K,Zane Gonzalez,Tera Roberts_error,
+2587,11,K,Blake Grupe,Tera Roberts_error,
+2588,11,K,Dustin Hopkins,Tera Roberts_error,
+2589,11,K,Matt Gay,Tera Roberts_error,
+2590,11,K,Jason Myers,Tera Roberts_error,
+2591,11,K,Spencer Shrader,Tera Roberts_error,
+2592,11,K,Cairo Santos,Tera Roberts_error,
+2593,11,K,Daniel Carlson,Tera Roberts_error,
+2594,11,K,Joey Slye,Tera Roberts_error,
+2595,11,K,Cam Little,Tera Roberts_error,
+2596,11,K,Anders Carlson,Tera Roberts_error,
+2597,11,K,Nick Folk,Tera Roberts_error,
+2598,12,K,Jake Bates,Tera Roberts_error,14.0
+2599,12,K,Ka'imi Fairbairn,Tera Roberts_error,9.0
+2600,12,K,Cameron Dicker,Tera Roberts_error,0.0
+2601,12,K,Jason Sanders,Tera Roberts_error,5.0
+2602,12,K,Wil Lutz,Tera Roberts_error,5.0
+2603,12,K,Justin Tucker,Tera Roberts_error,12.0
+2604,12,K,Chris Boswell,Tera Roberts_error,8.0
+2605,12,K,Chase McLaughlin,Tera Roberts_error,10.0
+2606,12,K,Jake Moody,Tera Roberts_error,10.0
+2607,12,K,Brandon Aubrey,Tera Roberts_error,
+2608,12,K,Spencer Shrader,Tera Roberts_error,4.0
+2609,12,K,Jake Elliott,Tera Roberts_error,6.0
+2610,12,K,Chad Ryland,Tera Roberts_error,
+2611,12,K,Austin Seibert,Tera Roberts_error,3.0
+2612,12,K,Brandon McManus,Tera Roberts_error,
+2613,12,K,Matt Gay,Tera Roberts_error,
+2614,12,K,Joshua Karty,Tera Roberts_error,
+2615,12,K,Jason Myers,Tera Roberts_error,
+2616,12,K,Joey Slye,Tera Roberts_error,
+2617,12,K,Daniel Carlson,Tera Roberts_error,
+2618,12,K,Dustin Hopkins,Tera Roberts_error,
+2619,12,K,Cairo Santos,Tera Roberts_error,
+2620,12,K,Graham Gano,Tera Roberts_error,
+2621,12,K,Nick Folk,Tera Roberts_error,
+2622,12,K,Eddy Pineiro,Tera Roberts_error,
+2623,13,K,Cameron Dicker,Tera Roberts_error,7.0
+2624,13,K,Jake Bates,Tera Roberts_error,6.0
+2625,13,K,Ka'imi Fairbairn,Tera Roberts_error,2.0
+2626,13,K,Chris Boswell,Tera Roberts_error,1.0
+2627,13,K,Chase McLaughlin,Tera Roberts_error,3.0
+2628,13,K,Brandon Aubrey,Tera Roberts_error,10.0
+2629,13,K,Wil Lutz,Tera Roberts_error,3.0
+2630,13,K,Justin Tucker,Tera Roberts_error,
+2631,13,K,Jake Elliott,Tera Roberts_error,15.0
+2632,13,K,Tyler Bass,Tera Roberts_error,17.0
+2633,13,K,Brandon McManus,Tera Roberts_error,6.0
+2634,13,K,Jason Sanders,Tera Roberts_error,19.0
+2635,13,K,Chad Ryland,Tera Roberts_error,
+2636,13,K,Younghoe Koo,Tera Roberts_error,
+2637,13,K,Joshua Karty,Tera Roberts_error,
+2638,13,K,Evan McPherson,Tera Roberts_error,
+2639,13,K,Jason Myers,Tera Roberts_error,
+2640,13,K,Matt Gay,Tera Roberts_error,
+2641,13,K,Zane Gonzalez,Tera Roberts_error,
+2642,13,K,Jake Moody,Tera Roberts_error,
+2643,13,K,Blake Grupe,Tera Roberts_error,
+2644,13,K,Matthew Wright,Tera Roberts_error,
+2645,13,K,Joey Slye,Tera Roberts_error,
+2646,13,K,Nick Folk,Tera Roberts_error,
+2647,13,K,Cairo Santos,Tera Roberts_error,
+2648,13,K,Dustin Hopkins,Tera Roberts_error,
+2649,13,K,Eddy Pineiro,Tera Roberts_error,
+2650,13,K,Daniel Carlson,Tera Roberts_error,
+2651,13,K,Cam Little,Tera Roberts_error,
+2652,13,K,Graham Gano,Tera Roberts_error,
